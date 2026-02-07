@@ -1,0 +1,35 @@
+{
+  "interview_metadata": {
+    "date": "2026-02-07",
+    "company": "To be filled",
+    "position": "To be filled",
+    "notes": "Converted from sample_interview.txt"
+  },
+  "interview_questions_and_answers": [
+    {
+      "question_number": 1,
+      "question": "Tell me about yourself.",
+      "answer": "I'm a senior platform engineer with 10 years of experience specializing in AWS infrastructure and DevOps. In my current role at FinChen, I architected a multi-region AWS deployment that reduced costs by 30% while improving availability to 99.99%. I'm passionate about building scalable, secure systems and mentoring junior engineers."
+    },
+    {
+      "question_number": 2,
+      "question": "What's your greatest strength?",
+      "answer": "My greatest strength is problem-solving under pressure. For example, when our production database experienced an outage last year, I quickly identified the root cause, coordinated with the team to implement our disaster recovery plan, and restored service within 90 minutes. This saved the company an estimated $500,000 in lost revenue."
+    },
+    {
+      "question_number": 3,
+      "question": "Why do you want to work here?",
+      "answer": "I'm excited about your company's focus on AI infrastructure and innovation. Your recent work with machine learning inference optimization aligns perfectly with my experience. I believe I can contribute to your platform team while growing my expertise in ML systems. Additionally, your commitment to engineering excellence and your tech stack match my career goals."
+    },
+    {
+      "question_number": 4,
+      "question": "Describe a challenging technical problem you solved.",
+      "answer": "At my previous company, we had an API that was responding in 2-3 seconds, causing customer complaints. I analyzed the system, identified multiple performance bottlenecks including N+1 queries and missing indexes. I implemented Redis caching, optimized database queries, and added connection pooling. The result was a 70% reduction in response time to under 1 second, and customer satisfaction increased by 45%."
+    },
+    {
+      "question_number": 5,
+      "question": "How do you handle disagreements with team members?",
+      "answer": "I believe in data-driven discussions and respectful communication. Recently, a colleague and I disagreed on our CI/CD approach. Instead of arguing, I suggested we prototype both solutions and measure the results. We tested both for a week, gathered metrics on deployment time, failure rate, and team feedback. The data clearly showed one approach was better, and we both agreed on the decision. This strengthened our working relationship.\n\n## How to Use This File\n\n1. Save this as `sample_interview.txt`\n2. Convert to JSON:\n   ```bash\n   python convert_transcript.py sample_interview.txt\n   ```\n3. Analyze the results:\n   ```bash\n   python analyze_transcript.py sample_interview_converted.json\n   ```\n4. Practice improving the answers based on feedback!"
+    }
+  ]
+}

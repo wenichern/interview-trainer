@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Training Tool</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .main-content {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #e0e0e0;
+            flex-wrap: wrap;
+        }
+        
+        .tab {
+            padding: 12px 24px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            color: #666;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s;
+        }
+        
+        .tab:hover {
+            color: #667eea;
+        }
+        
+        .tab.active {
+            color: #667eea;
+            border-bottom-color: #667eea;
+            font-weight: 600;
+        }
+        
+        .tab-content {
+            display: none;
+        }
+        
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.3s;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .module-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .module-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        
+        .module-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        }
+        
+        .module-card h3 {
+            font-size: 1.3em;
+            margin-bottom: 10px;
+        }
+        
+        .module-card p {
+            opacity: 0.9;
+            line-height: 1.5;
+        }
+        
+        .lesson-content {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 10px;
+            margin-top: 20px;
+            line-height: 1.8;
+        }
+        
+        .lesson-content h3 {
+            color: #667eea;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        
+        .lesson-content h4 {
+            color: #764ba2;
+            margin-top: 15px;
+            margin-bottom: 8px;
+        }
+        
+        .lesson-content ul, .lesson-content ol {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        
+        .lesson-content li {
+            margin-bottom: 8px;
+        }
+        
+        .lesson-content pre {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+        
+        .lesson-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+        }
+        
+        .lesson-content th, .lesson-content td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .lesson-content th {
+            background: #667eea;
+            color: white;
+        }
+        
+        .practice-section {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        
+        .question-box {
+            background: #f0f4ff;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+            margin-bottom: 20px;
+        }
+        
+        .question-box h4 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        textarea {
+            width: 100%;
+            min-height: 150px;
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-family: inherit;
+            font-size: 16px;
+            resize: vertical;
+            transition: border-color 0.3s;
+        }
+        
+        textarea:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            margin-top: 10px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-secondary {
+            background: #6c757d;
+            margin-left: 10px;
+        }
+        
+        .feedback-box {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        
+        .score {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        .feedback-item {
+            padding: 10px;
+            margin: 8px 0;
+            border-radius: 5px;
+            background: white;
+        }
+        
+        .tip-box {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        
+        .tip-box strong {
+            color: #856404;
+        }
+        
+        .back-btn {
+            background: #6c757d;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+        
+        .lesson-nav {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid #e0e0e0;
+        }
+        
+        .stats {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-card {
+            flex: 1;
+            background: #f0f4ff;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 Interview Training Tool</h1>
+            <p class="subtitle">Master your interview skills with interactive training</p>
+        </header>
+        
+        <div class="main-content">
+            <div class="tabs">
+                <button class="tab active" onclick="showTab('modules')">📚 Training Modules</button>
+                <button class="tab" onclick="showTab('practice')">💪 Practice</button>
+                <button class="tab" onclick="showTab('tips')">💡 Quick Tips</button>
+            </div>
+            
+            <!-- Training Modules Tab -->
+            <div id="modules-tab" class="tab-content active">
+                <h2>Choose a Training Module</h2>
+                <div id="modules-grid" class="module-grid">
+                    <!-- Modules loaded here -->
+                </div>
+                <div id="module-detail" style="display:none;">
+                    <!-- Module detail loaded here -->
+                </div>
+            </div>
+            
+            <!-- Practice Tab -->
+            <div id="practice-tab" class="tab-content">
+                <h2>Practice Your Responses</h2>
+                <div class="practice-section">
+                    <button class="btn" onclick="loadRandomQuestion()">🎲 Get Random Question</button>
+                    <button class="btn btn-secondary" onclick="loadQuestionsByCategory('behavioral')">Behavioral</button>
+                    <button class="btn btn-secondary" onclick="loadQuestionsByCategory('technical')">Technical</button>
+                    <button class="btn btn-secondary" onclick="loadQuestionsByCategory('ml_specific')">ML/AI</button>
+                    
+                    <div id="practice-question" style="display:none;">
+                        <div class="question-box">
+                            <h4>Question:</h4>
+                            <p id="question-text"></p>
+                        </div>
+                        
+                        <label><strong>Your Answer (aim for 60-90 seconds when spoken):</strong></label>
+                        <textarea id="answer-text" placeholder="Type your answer here..."></textarea>
+                        
+                        <div class="stats">
+                            <div class="stat-card">
+                                <div class="stat-value" id="word-count">0</div>
+                                <div class="stat-label">Words</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-value" id="estimated-time">0s</div>
+                                <div class="stat-label">Est. Speaking Time</div>
+                            </div>
+                        </div>
+                        
+                        <button class="btn" onclick="analyzeAnswer()">🔍 Analyze My Answer</button>
+                        <button class="btn btn-secondary" onclick="loadRandomQuestion()">Next Question</button>
+                        
+                        <div id="feedback-section" style="display:none;">
+                            <!-- Feedback loaded here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Tips Tab -->
+            <div id="tips-tab" class="tab-content">
+                <h2>Quick Interview Tips</h2>
+                <div class="practice-section">
+                    <button class="btn" onclick="loadRandomTip()">✨ Get Random Tip</button>
+                    
+                    <div id="tips-display">
+                        <div class="tip-box" style="margin-top: 20px;">
+                            <strong>💡 Pro Tip:</strong>
+                            <p style="margin-top: 10px;">Click the button above to get actionable interview tips!</p>
+                        </div>
+                        
+                        <h3 style="margin-top: 30px;">Key Reminders:</h3>
+                        <div class="lesson-content">
+                            <ul>
+                                <li><strong>STAR Method:</strong> Situation, Task, Action, Result</li>
+                                <li><strong>Headline First:</strong> Answer the question directly, then provide details</li>
+                                <li><strong>60-90 Seconds:</strong> Keep your answers concise and focused</li>
+                                <li><strong>Measurable Results:</strong> Always include numbers and metrics</li>
+                                <li><strong>Confident Language:</strong> Replace "I guess" with "I believe"</li>
+                                <li><strong>Own Your Work:</strong> Say "I" not "we" when describing your contributions</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Load modules on page load
+        window.onload = function() {
+            loadModules();
+        };
+        
+        function showTab(tabName) {
+            // Hide all tabs
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show selected tab
+            document.getElementById(tabName + '-tab').classList.add('active');
+            event.target.classList.add('active');
+        }
+        
+        async function loadModules() {
+            const response = await fetch('/api/modules');
+            const data = await response.json();
+            
+            const grid = document.getElementById('modules-grid');
+            grid.innerHTML = data.modules.map(module => `
+                <div class="module-card" onclick="loadModule('${module.id}')">
+                    <h3>${module.title}</h3>
+                    <p>${module.description}</p>
+                    <p style="margin-top: 15px; opacity: 0.8;">📖 ${module.lesson_count} lessons</p>
+                </div>
+            `).join('');
+        }
+        
+        async function loadModule(moduleId) {
+            const response = await fetch(`/api/module/${moduleId}`);
+            const module = await response.json();
+            
+            document.getElementById('modules-grid').style.display = 'none';
+            const detailDiv = document.getElementById('module-detail');
+            detailDiv.style.display = 'block';
+            
+            detailDiv.innerHTML = `
+                <button class="btn back-btn" onclick="backToModules()">← Back to Modules</button>
+                <h2>${module.title}</h2>
+                <p style="color: #666; margin-bottom: 20px;">${module.description}</p>
+                
+                ${module.lessons.map((lesson, index) => `
+                    <div class="lesson-content">
+                        <h3>Lesson ${index + 1}: ${lesson.title}</h3>
+                        ${lesson.content}
+                        
+                        ${lesson.practice_prompts ? `
+                            <div style="margin-top: 20px; padding: 15px; background: white; border-radius: 8px;">
+                                <strong>💪 Practice Prompts:</strong>
+                                <ul>
+                                    ${lesson.practice_prompts.map(prompt => `<li>${prompt}</li>`).join('')}
+                                </ul>
+                            </div>
+                        ` : ''}
+                    </div>
+                `).join('')}
+            `;
+        }
+        
+        function backToModules() {
+            document.getElementById('modules-grid').style.display = 'grid';
+            document.getElementById('module-detail').style.display = 'none';
+        }
+        
+        async function loadRandomQuestion() {
+            const response = await fetch('/api/practice/random');
+            const data = await response.json();
+            
+            document.getElementById('practice-question').style.display = 'block';
+            document.getElementById('question-text').textContent = data.question;
+            document.getElementById('answer-text').value = '';
+            document.getElementById('feedback-section').style.display = 'none';
+            updateWordCount();
+        }
+        
+        async function loadQuestionsByCategory(category) {
+            const response = await fetch(`/api/practice/questions?category=${category}`);
+            const data = await response.json();
+            
+            const randomQuestion = data.questions[Math.floor(Math.random() * data.questions.length)];
+            document.getElementById('practice-question').style.display = 'block';
+            document.getElementById('question-text').textContent = randomQuestion;
+            document.getElementById('answer-text').value = '';
+            document.getElementById('feedback-section').style.display = 'none';
+            updateWordCount();
+        }
+        
+        // Update word count in real-time
+        document.addEventListener('DOMContentLoaded', function() {
+            const textarea = document.getElementById('answer-text');
+            if (textarea) {
+                textarea.addEventListener('input', updateWordCount);
+            }
+        });
+        
+        function updateWordCount() {
+            const textarea = document.getElementById('answer-text');
+            if (!textarea) return;
+            
+            const text = textarea.value;
+            const words = text.trim().split(/\s+/).filter(w => w.length > 0);
+            const wordCount = words.length;
+            
+            // Estimate speaking time (150 words per minute average)
+            const estimatedSeconds = Math.round((wordCount / 150) * 60);
+            
+            document.getElementById('word-count').textContent = wordCount;
+            document.getElementById('estimated-time').textContent = estimatedSeconds + 's';
+            
+            // Color code the time
+            const timeElement = document.getElementById('estimated-time');
+            if (estimatedSeconds >= 60 && estimatedSeconds <= 90) {
+                timeElement.style.color = '#28a745'; // Green
+            } else if (estimatedSeconds < 60 || estimatedSeconds > 120) {
+                timeElement.style.color = '#dc3545'; // Red
+            } else {
+                timeElement.style.color = '#ffc107'; // Yellow
+            }
+        }
+        
+        async function analyzeAnswer() {
+            const question = document.getElementById('question-text').textContent;
+            const answer = document.getElementById('answer-text').value;
+            
+            if (!answer.trim()) {
+                alert('Please write an answer first!');
+                return;
+            }
+            
+            const response = await fetch('/api/analyze/response', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ question, answer })
+            });
+            
+            const result = await response.json();
+            
+            const feedbackDiv = document.getElementById('feedback-section');
+            feedbackDiv.style.display = 'block';
+            
+            feedbackDiv.innerHTML = `
+                <div class="feedback-box">
+                    <h3>Analysis Results</h3>
+                    <div class="score">Score: ${result.score}/10</div>
+                    
+                    <div class="stats">
+                        <div class="stat-card">
+                            <div class="stat-value">${result.word_count}</div>
+                            <div class="stat-label">Words</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">${result.weak_phrases_count}</div>
+                            <div class="stat-label">Weak Phrases</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">${result.has_metrics ? '✅' : '❌'}</div>
+                            <div class="stat-label">Has Metrics</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">${result.has_structure ? '✅' : '❌'}</div>
+                            <div class="stat-label">Has Structure</div>
+                        </div>
+                    </div>
+                    
+                    <h4 style="margin-top: 20px;">Feedback:</h4>
+                    ${result.feedback.map(item => `
+                        <div class="feedback-item">${item}</div>
+                    `).join('')}
+                </div>
+            `;
+            
+            feedbackDiv.scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        async function loadRandomTip() {
+            const response = await fetch('/api/tips/random');
+            const data = await response.json();
+            
+            document.getElementById('tips-display').innerHTML = `
+                <div class="tip-box" style="margin-top: 20px; animation: fadeIn 0.5s;">
+                    <strong>💡 Pro Tip:</strong>
+                    <p style="margin-top: 10px; font-size: 1.1em;">${data.tip}</p>
+                </div>
+                <button class="btn" onclick="loadRandomTip()" style="margin-top: 20px;">Get Another Tip</button>
+            `;
+        }
+    </script>
+</body>
+</html>

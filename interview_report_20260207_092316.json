@@ -1,0 +1,64 @@
+{
+  "individual_responses": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "Um, well, I'm a software developer with like 5 years of experience. I've worked on various projects, you know, mostly web applications. I'm really passionate about coding and I think I'd be a good fit for this role.",
+      "scores": {
+        "clarity": 7,
+        "relevance": 7,
+        "confidence": 4,
+        "specificity": 4,
+        "professionalism": 10
+      },
+      "feedback": [
+        "\ud83d\udca1 Reduce filler words (um, uh, like). Practice pausing instead.",
+        "\ud83d\udca1 Use structure words (First, Additionally, Finally) to organize your response."
+      ],
+      "timestamp": "2026-02-07T09:23:16.459346"
+    },
+    {
+      "question": "What's your greatest strength?",
+      "answer": "My greatest strength is problem-solving. For example, in my last role at TechCorp, I identified a critical performance bottleneck in our API that was causing 30% slower response times. I analyzed the code, implemented caching strategies, and reduced response time by 50%. This directly improved user satisfaction scores.",
+      "scores": {
+        "clarity": 7,
+        "relevance": 7,
+        "confidence": 10,
+        "specificity": 4,
+        "professionalism": 10
+      },
+      "feedback": [
+        "\ud83d\udca1 Use structure words (First, Additionally, Finally) to organize your response."
+      ],
+      "timestamp": "2026-02-07T09:23:16.459421"
+    },
+    {
+      "question": "Describe a challenging situation you faced.",
+      "answer": "I faced a challenging situation when our production database went down during peak hours. I remained calm, quickly assessed the situation, coordinated with the team to implement our backup plan, and restored service within 2 hours. Additionally, I documented the incident and proposed preventive measures that we implemented.",
+      "scores": {
+        "clarity": 8,
+        "relevance": 7,
+        "confidence": 8,
+        "specificity": 2,
+        "professionalism": 10
+      },
+      "feedback": [
+        "\ud83d\udca1 Reduce filler words (um, uh, like). Practice pausing instead.",
+        "\ud83d\udca1 Include specific examples from your experience to strengthen your answer."
+      ],
+      "timestamp": "2026-02-07T09:23:16.459472"
+    }
+  ],
+  "overall_scores": {
+    "clarity": 7.3,
+    "relevance": 7.0,
+    "confidence": 7.3,
+    "specificity": 3.3,
+    "professionalism": 10.0
+  },
+  "overall_feedback": [
+    "\ud83c\udf1f Strengths: professionalism",
+    "\ud83d\udcc8 Areas to improve: specificity",
+    "\ud83d\udc4d Good performance with room for improvement."
+  ],
+  "interview_date": "2026-02-07T09:23:16.459505"
+}

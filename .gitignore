@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Interview data (private)
+interview_transcript.json
+interview_transcript_analysis.json
+Interview2
+Interview2_converted.json
+Interview2_cleaned.json
+interviewtranscriptanalyze
+
+# Analysis results (private)
+*_analysis.json
+transcripts/
+analysis/
+backups/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
