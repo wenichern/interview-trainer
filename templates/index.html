@@ -306,6 +306,115 @@
             color: #666;
             margin-top: 5px;
         }
+        
+        .interview-card {
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 15px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .interview-card:hover {
+            border-color: #667eea;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+            transform: translateY(-2px);
+        }
+        
+        .interview-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .interview-date {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        .interview-badge {
+            background: #667eea;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+        }
+        
+        .score-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            margin-top: 15px;
+        }
+        
+        .score-item {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .score-item-label {
+            font-size: 0.85em;
+            color: #666;
+            text-transform: capitalize;
+        }
+        
+        .score-item-value {
+            font-size: 1.4em;
+            font-weight: bold;
+            color: #667eea;
+            margin-top: 5px;
+        }
+        
+        .response-card {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        
+        .response-question {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .response-answer {
+            color: #666;
+            line-height: 1.6;
+            margin: 15px 0;
+            padding: 15px;
+            background: white;
+            border-radius: 5px;
+        }
+        
+        .response-scores {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin: 15px 0;
+        }
+        
+        .mini-score {
+            background: #667eea;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+        
+        .feedback-item {
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+            background: white;
+        }
     </style>
 </head>
 <body>
@@ -319,6 +428,7 @@
             <div class="tabs">
                 <button class="tab active" onclick="showTab('modules')">📚 Training Modules</button>
                 <button class="tab" onclick="showTab('practice')">💪 Practice</button>
+                <button class="tab" onclick="showTab('interviews')">📊 My Interviews</button>
                 <button class="tab" onclick="showTab('tips')">💡 Quick Tips</button>
             </div>
             
@@ -372,6 +482,22 @@
                 </div>
             </div>
             
+            <!-- My Interviews Tab -->
+            <div id="interviews-tab" class="tab-content">
+                <h2>My Interview Analysis</h2>
+                <div class="practice-section">
+                    <button class="btn" onclick="loadInterviews()">🔄 Refresh Interviews</button>
+                    
+                    <div id="interviews-list" style="margin-top: 20px;">
+                        <!-- Interviews loaded here -->
+                    </div>
+                    
+                    <div id="interview-detail" style="display:none; margin-top: 20px;">
+                        <!-- Interview detail loaded here -->
+                    </div>
+                </div>
+            </div>
+            
             <!-- Tips Tab -->
             <div id="tips-tab" class="tab-content">
                 <h2>Quick Interview Tips</h2>
@@ -419,6 +545,11 @@
             // Show selected tab
             document.getElementById(tabName + '-tab').classList.add('active');
             event.target.classList.add('active');
+            
+            // Load interviews when interviews tab is shown
+            if (tabName === 'interviews') {
+                loadInterviews();
+            }
         }
         
         async function loadModules() {
@@ -594,6 +725,141 @@
                 </div>
                 <button class="btn" onclick="loadRandomTip()" style="margin-top: 20px;">Get Another Tip</button>
             `;
+        }
+        
+        async function loadInterviews() {
+            const response = await fetch('/api/interviews');
+            const data = await response.json();
+            
+            const interviewsList = document.getElementById('interviews-list');
+            
+            if (!data.interviews || data.interviews.length === 0) {
+                interviewsList.innerHTML = `
+                    <div class="tip-box">
+                        <strong>📝 No interviews found</strong>
+                        <p style="margin-top: 10px;">Complete an interview analysis using <code>analyze_transcript.py</code> to see your results here.</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            interviewsList.innerHTML = `
+                <h3>Your Interview History</h3>
+                ${data.interviews.map(interview => `
+                    <div class="interview-card" onclick="loadInterviewDetail('${interview.filename}')">
+                        <div class="interview-header">
+                            <div class="interview-date">📅 ${interview.date}</div>
+                            <div class="interview-badge">${interview.total_questions} Questions</div>
+                        </div>
+                        <div class="score-grid">
+                            ${Object.entries(interview.overall_scores).map(([key, value]) => `
+                                <div class="score-item">
+                                    <div class="score-item-label">${key}</div>
+                                    <div class="score-item-value">${typeof value === 'number' ? value.toFixed(1) : value}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `).join('')}
+            `;
+        }
+        
+        async function loadInterviewDetail(filename) {
+            const response = await fetch(`/api/interview/${filename}`);
+            const data = await response.json();
+            
+            const detailDiv = document.getElementById('interview-detail');
+            const listDiv = document.getElementById('interviews-list');
+            
+            listDiv.style.display = 'none';
+            detailDiv.style.display = 'block';
+            
+            // Build metadata section if available
+            let metadataHtml = '';
+            if (data.interview_metadata) {
+                const meta = data.interview_metadata;
+                metadataHtml = `
+                    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 25px; border-radius: 10px; margin-bottom: 30px;">
+                        <h3 style="color: white; margin-bottom: 15px;">📋 Interview Information</h3>
+                        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+                            ${meta.date ? `<div><strong>📅 Date:</strong> ${meta.date}</div>` : ''}
+                            ${meta.company ? `<div><strong>🏢 Company:</strong> ${meta.company}</div>` : ''}
+                            ${meta.position ? `<div><strong>💼 Position:</strong> ${meta.position}</div>` : ''}
+                            ${meta.location ? `<div><strong>📍 Location:</strong> ${meta.location}</div>` : ''}
+                            ${meta.salary_range ? `<div><strong>💰 Salary:</strong> ${meta.salary_range}</div>` : ''}
+                            ${meta.interviewer ? `<div><strong>👤 Interviewer:</strong> ${meta.interviewer}</div>` : ''}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // Build questions list
+            const questionsHtml = `
+                <div style="background: #f0f4ff; padding: 25px; border-radius: 10px; margin-bottom: 30px;">
+                    <h3 style="color: #667eea; margin-bottom: 15px;">❓ Interview Questions</h3>
+                    <ol style="padding-left: 20px;">
+                        ${data.individual_responses.map((response, index) => `
+                            <li style="margin-bottom: 10px; line-height: 1.6;">
+                                <strong>${response.question}</strong>
+                            </li>
+                        `).join('')}
+                    </ol>
+                </div>
+            `;
+            
+            detailDiv.innerHTML = `
+                <button class="btn back-btn" onclick="backToInterviewsList()">← Back to List</button>
+                
+                ${metadataHtml}
+                
+                ${questionsHtml}
+                
+                <h3>📊 Overall Performance</h3>
+                <div class="score-grid">
+                    ${Object.entries(data.overall_scores).map(([key, value]) => `
+                        <div class="score-item">
+                            <div class="score-item-label">${key}</div>
+                            <div class="score-item-value">${typeof value === 'number' ? value.toFixed(1) : value}/10</div>
+                        </div>
+                    `).join('')}
+                </div>
+                
+                <h3 style="margin-top: 30px;">📝 Detailed Responses & Analysis</h3>
+                ${data.individual_responses.map((response, index) => `
+                    <div class="response-card">
+                        <div class="response-question">Q${index + 1}: ${response.question}</div>
+                        <div class="response-answer">${response.answer}</div>
+                        
+                        <div class="response-scores">
+                            ${Object.entries(response.scores).map(([key, value]) => `
+                                <div class="mini-score">${key}: ${value}/10</div>
+                            `).join('')}
+                        </div>
+                        
+                        ${response.feedback && response.feedback.length > 0 ? `
+                            <h4 style="margin-top: 15px;">💡 Feedback:</h4>
+                            ${response.feedback.map(item => `
+                                <div class="feedback-item">${item}</div>
+                            `).join('')}
+                        ` : ''}
+                    </div>
+                `).join('')}
+                
+                ${data.recommendations ? `
+                    <h3 style="margin-top: 30px;">📝 Recommendations</h3>
+                    <div class="lesson-content">
+                        ${data.recommendations.map(rec => `<p>• ${rec}</p>`).join('')}
+                    </div>
+                ` : ''}
+            `;
+            
+            detailDiv.scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function backToInterviewsList() {
+            document.getElementById('interviews-list').style.display = 'block';
+            document.getElementById('interview-detail').style.display = 'none';
+            loadInterviews();
         }
     </script>
 </body>
