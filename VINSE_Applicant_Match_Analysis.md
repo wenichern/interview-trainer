@@ -20,6 +20,8 @@
 
 ## Excellent Matches (Strong Fit):
 
+**Note:** Duvall Lab offers TWO excellent projects (pH-reactive and ROS-reactive polymers). The **ROS-reactive project is PARTICULARLY STRONG** due to applicant's UCSF CVRI inflammation research experience with atherosclerosis and inflammatory pathways.
+
 ### Project 1: Designing Microfluidic Devices - Circulating Tumor & Immune Cells (Rafat Lab) ⭐⭐⭐⭐⭐
 **Perfect Match!**
 
@@ -112,7 +114,7 @@
 
 ---
 
-### Project 5: pH-reactive Polymers for Drug Delivery (Duvall Lab) ⭐⭐⭐⭐
+### Project 5A: pH-reactive Polymers for Drug Delivery (Duvall Lab) ⭐⭐⭐⭐
 **Very Strong Match**
 
 **Applicant's interests:**
@@ -132,6 +134,44 @@
 - Molecular biology ✓
 
 **Statement alignment:** *"Realizing manufacturing processes can be improved, costs reduced, and even their efficacy maintained or enhanced"*
+
+---
+
+### Project 5B: ROS-reactive Polymers for Drug Delivery (Duvall Lab) ⭐⭐⭐⭐⭐
+**Excellent Match!**
+
+**Applicant's interests:**
+- "On demand" drug delivery systems with environmental responsiveness
+- Inflammation and cancer therapeutics
+- Polymer synthesis and nanoparticle fabrication
+
+**Relevant experience:**
+- Strong organic chemistry background (synthesis optimization, yield improvement)
+- UCSF CVRI: Inflammatory pathways (macrophage dysfunction, atherosclerosis)
+- Cell culture and molecular biology from iGEM
+- Interest in improving manufacturing and therapeutic efficacy
+
+**Applications:**
+- Wound healing
+- Breast cancer metastasis
+- Arthritis therapies
+
+**Skills match:**
+- Organic chemistry (excellent) ✓
+- Polymeric biomaterials and inflammation focus ✓
+- ROS-reactive polymer synthesis ✓
+- Nanoparticle fabrication and characterization ✓
+- Cell culture and molecular biology ✓
+
+**Why this is excellent:**
+- Combines applicant's inflammation research experience (UCSF) with drug delivery interest
+- Strong chemistry foundation applies directly to polymer synthesis
+- Applications in cancer (CTC interest) and inflammatory diseases
+- "On demand" release aligns with precision medicine vision
+
+**Statement alignment:** *"Realizing manufacturing processes can be improved, costs reduced, and even their efficacy maintained or enhanced"* + UCSF inflammatory pathway research
+
+**Note:** Both Duvall Lab projects are excellent matches. ROS-reactive may be slightly stronger due to inflammation research background from UCSF CVRI work.
 
 ---
 
@@ -212,15 +252,16 @@
 
 **Top Tier (Perfect/Excellent):**
 1. Rafat Lab - Microfluidic Devices (CTCs & Immune Cells)
-2. Ndukaife Lab - Nanoscale Optical Trapping
-3. Wilson Lab - pH-Responsive Nanocarriers
-4. Weiss Lab - Nanophotonic Biosensors
-5. Duvall Lab - pH-reactive Polymers
+2. Duvall Lab - ROS-reactive Polymers (inflammation + drug delivery)
+3. Ndukaife Lab - Nanoscale Optical Trapping
+4. Wilson Lab - pH-Responsive Nanocarriers
+5. Weiss Lab - Nanophotonic Biosensors
+6. Duvall Lab - pH-reactive Polymers
 
 **Second Tier (Very Good):**
-6. Dong Lab - Soft Miniature Robots
-7. Jennings/Cliffel Labs - Biohybrid Solar Cells
-8. Lippmann Lab - Vascularized Brain Models
+7. Dong Lab - Soft Miniature Robots
+8. Jennings/Cliffel Labs - Biohybrid Solar Cells
+9. Lippmann Lab - Vascularized Brain Models
 
 **Third Tier (Good but less aligned):**
 9. Bellan Lab - Artificial Arterioles
@@ -232,9 +273,10 @@
 ## Key Strengths to Emphasize in Application:
 
 ✅ **Direct CTC Research Interest** - Explicitly matches Rafat Lab  
+✅ **Inflammatory Pathway Research** - UCSF CVRI, perfect for Duvall ROS-reactive project  
 ✅ **Nanostructure-Protein Functionalization** - Matches multiple labs  
 ✅ **Microfluidics & Bioelectronics** - Core interest, high demand  
-✅ **Immune System Experience** - UCSF CVRI, Wilson/Rafat labs  
+✅ **Immune System Experience** - UCSF CVRI, Wilson/Rafat/Duvall labs  
 ✅ **Strong Chemistry Foundation** - Enables polymer/synthesis projects  
 ✅ **Cell Culture Proficiency** - iGEM, applicable everywhere  
 ✅ **Translational Medicine Focus** - Patient accessibility goal  
@@ -246,21 +288,31 @@
 
 **Primary Choices (List These):**
 1. Rafat Lab - Microfluidic Devices
-2. Ndukaife Lab - Nanoscale Optical Trapping
-3. Wilson Lab - pH-Responsive Nanocarriers
-4. Weiss Lab - Nanophotonic Biosensors
-5. Duvall Lab - pH-reactive Polymers
+2. Duvall Lab - ROS-reactive Polymers (STRONGLY RECOMMENDED)
+3. Ndukaife Lab - Nanoscale Optical Trapping
+4. Wilson Lab - pH-Responsive Nanocarriers
+5. Weiss Lab - Nanophotonic Biosensors
+
+**Alternative 5th Choice:** Duvall Lab - pH-reactive Polymers (if you prefer pH over ROS)
 
 **Why This Order:**
 - Direct statement alignment with research interests
-- Leverages existing technical skills
+- **ROS-reactive Duvall project leverages UCSF inflammation research perfectly**
+- Leverages existing technical skills (chemistry, cell culture, molecular biology)
 - Builds on UCSF + iGEM experience
 - All focus on translational/clinical applications
-- Combines nanoscience + microfluidics + immunology
+- Combines nanoscience + microfluidics + immunology + inflammation
 
 **In Statement, Emphasize:**
 - CTC capture and separation (Rafat connection)
-- Nanoparticle assembly and delivery (Wilson/Duvall)
+- **Inflammatory pathway research from UCSF CVRI (Duvall ROS-reactive connection)**
+- Nanoparticle assembly and drug delivery (Wilson/Duvall)
 - Point-of-care diagnostics (Ndukaife/Weiss)
 - Immune-cancer interactions (Rafat/Wilson)
+- Manufacturing optimization and therapeutic efficacy (Duvall)
 - Clinical translation goals (all labs)
+
+**Special Note on Duvall Lab:**
+You can list BOTH Duvall projects if allowed, or choose one:
+- **ROS-reactive** = Better fit (UCSF inflammation research, breast cancer metastasis, wound healing)
+- **pH-reactive** = Also excellent (broader cancer focus, microfluidic fabrication emphasis)
