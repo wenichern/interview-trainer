@@ -1,0 +1,167 @@
+Two categories of ideas: one, more material base or how to improve DNA nanostructure. Thinking about flexibility, but also intercalation, based on chemical interactions with another molecule, can DNA nanostructure change shape? The other category is more application based in for example how to functionalize proteins onto DNA origami or building block to treat diseases. Or, for bio sensing and detection.
+
+Bulk RNA seq data
+
+Why is DNA origami not functionalized with metalloids?
+
+Liked how interdisciplinary the field of nanoscience is. For example, when searching up nanostructures at Berkeley I found Leo Huang’s master thesis on precise placement of DNA origami on patterned silicon wafers. Mentioned the coupling of molecular emitters to photonic cavities. I then searched up molecular emitters, and the first paper that came up was metal organic frameworks as molecular emitters added on/coated with nanoparticles and considering lattice geometry can cause different optical excitations. The use of metal organic frameworks is interesting because there is another lab at Berkeley that uses metal organic frameworks to capture carbon, so as I have gotten more exposed to nanoscience and as I continue to be exposed to nanoscience, I would be working in the intersection of different fields and that is what I most want to do.
+I want to work in the applications 
+Covalent binding of oligonucleotides to epoxy groups on GPTMS-modified surfaces to then bind onto DNA origami.
+Oligo binding using GPTMS functionalization for site specific DNA origami placement. When looking at the steps, I enjoyed seeing that one of the steps involved an epoxide ring opening reaction with GPTMS layer, as reactions involving an epoxide ring opening was one of my favorite mechanisms to do in organic chemistry class, quizzes and exam. 
+Top-down, methodological approach to engineer things
+
+Capture cancer, every day the pathways slightly change, what shape do I want the DNA origami to be, what proteins do I want to functionalize onto the DNA origami.
+
+Flexible, overhangs cause curvature in 2D DNA origami, adding on receptors and ligands and their intersections could cause more curvature. 
+
+“By employing electron-
+beam lithography and dry oxidative etching, they created binding sites on substrates like
+SiO2 and diamond-like carbon that matched the shape of the DNA origami” (4). 
+
+Fractal assembly:
+constructs large-scale patterns using
+smaller DNA origami tiles as modular building blocks. By encoding binding interactions at
+each assembly stage, this method facilitated the generation of micrometer-scale patterns
+with up to 8,704 addressable pixels, expanding the potential for DNA nanostructures to
+integrate with larger substrate areas while maintaining nanoscale precision (5).
+
+
+What can you contribute to this lab?
+Previous experience working in mainly biology labs, at this point usually the post-doc and research associate in the lab give me pointers/starting points and I can independently do the experiments. Since the lab that I’m currently working at is small, we have a research associate and a post-doc and also a general surgeon resident who sometimes does research at our lab, I have assisted in doing many of the experiments and analyzing and the producing the data in the lab, so I will be a co-author in 2-3 papers from this lab. Also, my PI notified me that if the collaborator at Harvard validates some results on steroids effect on atherosclerosis, then I could take lead in validating and figuring out the mechanisms when steroids effect atherosclerosis.
+The reason I bring up this experience is that I can quickly pick up new experiments, methods, and concepts in a field, and then I can assist and collaborate with people in a lab setting. 
+Gap semester, want to learn from researchers in this field and working developing my protype based on learning what is the feasible with the goal of applying for provisional patent.
+
+Have previous experience with computational work. In particular, worked on preprocessing muscle MRI scans while interning with the Stanford iGEM team. This was the first time I seriously learned Python, learned through Kaggle while on the commute from Berkeley to Stanford, and then wrote the code in Google colabs. The main package I was using was SimpleITK, learned the mathematical basis for SimpleITK. Then, worked mostly on bias correction, which is when intensity variation distorts image brightness, and masking of specific parts of organs.
+Breadth looked at a topic, and then based on things that are interesting or relevant, I look deeper into those topics.
+I will read and then come up with ideas, and then start thinking about what I need to do implement idea.
+
+Looked at some of the work you’ve done, for example, the use of tiles to biosense coronavirus in a nanotechnology YouTube video. What is the vision, general aims that you want to do with nanotechnology?
+
+
+Material base, DNA nanostructure as a building block material/a material that can be functionalized:
+How to make DNA nanostructure more flexible.
+General idea: flexible, DNA and in between a flexible material. Need to figure out linker in between DNA and flexible material, need to figure out what flexible material. Then, if want to capture a specific molecule, protein then need specific receptors, aptamer, or maybe a similar mechanism to Modular DNA origami–based electrochemical detection of DNA and proteins (https://www.pnas.org/doi/10.1073/pnas.2311279121) because want to capture specific molecule, protein, cell, or virus but want say healthy cells to not be captured.
+What papers have I found recently that I think could be related to this topic:
+One of them was the UC Irvine paper, which studied how guanine attached to silver strengthens the DNA nanostructure. More so looking at formation and nanomechanical stiffness properties of Guanine-Ag+-Guanine nanostructure by using different technologies such as circular dichroism, which I furthered looked up has to do with circular polarization, so can look into chirality (chiral the molecule is not superimposable, achiral the molecule is superimposable/can do some conformation change to have molecule return to original molecular structure) and other properties of molecules and proteins. Also, surface force apparatus, which sees interaction forces of two surfaces when pushed together and pulled apart by beams.
+I looked into a paper called Hairygami that was using a computational modeling method to see how conformational changes emerge from overhangs attached to DNA origami, since current imaging tools don’t have the spatial and temporal resolution to completely inform us conformational changes of DNA origami. I learned there was another developed tool called oxDNA to analyze DNA nanostructures thermodynamic and kinetic properties. 
+“the volume accessible to an overhang
+Strand (Figure1c) will increase(Figure1d) if the 2Dorigami
+Bends more, making the bent configuration more favorable for
+entropic reasons, as the overhangs will have larger conforma-
+tional volume accessible. The volume accessible to single-
+stranded DNA overhangs was also previously shown to be able
+to modulate the free-energy landscape of a DNA hinge
+nanostructure” (Sample et al. 30007)
+“By adopting a curved surface, the number of
+Conformational states that the overhang extensions can explore
+increases, and consequently, the curved structure is entropi-
+cally favored (Figure1b)” (Sample et al. 30008).
+
+Modular DNA origami-based electrochemical detection of DNA and proteins by Jeon et al.
+
+“we introduce a reconfigurable DNA origami sen-
+sor whose modular architecture overcomes the redesign and opti-
+mization challenges posed by E-DNA and E-AB sensors. By
+combining a flat, two-dimensional DNA origami with a
+double-stranded DNA (dsDNA) linker, we create a “lily pad”
+structure wherein origami, decorated with numerous MB redox
+reporters are tethered to an ultraflat gold electrode via a long and
+flexible dsDNA linker ( Fig. 1 ). This open conformation is con-
+verted to a closed conformation by the presence of analyte bio-
+molecules when they bind and form a bridge between a pair of
+probes on the origami and on the electrode surface” (Jeon et al. 2).
+
+“Sequence x′ is positioned on the origami as an
+extension to a central staple, and a thiol-
+¬ modified version of y′
+is immobilized on the gold electrode surface via an Au-
+¬ S bond.
+When both x and y in a DNA analyte bind to x
+′ and y′ on the lily
+pad and the underlying electrode, the conformation of the lily
+pad changes from the “open” to the “closed” state. Each closing
+event brings the 70 MB curtain into proximity with the gold
+surface, facilitating electron transfer between MB and electrode
+and increasing voltammetric peak currents” (Jeon et al. 3). 
+
+
+Hardening origami to nucle-
+ase degradation, low Mg2+ concentrations, and nonspecific
+binding in vivo, while maintaining its structure and functionality,
+would also be necessary. Such hardening has been achieved by a
+variety of methods ( 98 ) including increasing helical packing den-
+sity, chemical cross-linking, coating with block copolymers and
+functionalization with unnatural nucleotides and end-groups;
+these methods should translate readily to the lily pad
+
+
+
+Also noticed that electron lithography can be used for precision, but I think it would be too abrasive for bio environments, so maybe use electron lithography on another material that can then be inserted into bio environment so can be compatible and not bio foul.
+
+Photolithography
+The process begins with a photosensitive material, called a photoresist, being applied to the substrate. A photomask that contains the desired pattern is then placed over the photoresist. Light is shone through the photomask, exposing the photoresist in certain areas. The exposed areas undergo a chemical change, making them either soluble or insoluble in a developer solution. After development, the pattern is transferred onto the substrate through etching, chemical vapor deposition, or ion implantation processes.
+Copp Lab
+Engineers
+Stronger
+Programmable
+DNA
+Nanostructures
+These silver-mediated DNA
+duplexes are far more stable than
+nature’s DNA duplex and can persist up
+to nearly the temperature of boiling water.
+
+While these kinds of duplexes are not
+new, the exact mechanisms of their
+formation were unknown.
+
+They
+then paired the mass measurements
+with a sensitive optical technique called
+circular dichroism spectroscopy to
+monitor the molecular conformations of
+the duplexes using light. They discovered
+that under certain conditions, the silver-
+paired DNA duplexes appeared to
+assemble into larger nanostructures.
+
+Working with Ashby at the Foundry,
+Bethur showed that it is possible to form
+long wires of silver-paired DNA duplexes,
+which could have exciting applications
+for DNA-based nanoelectronics.
+
+to measure the nanomechanical
+properties of the tiny duplexes. By
+attaching a single layer of silver-paired
+DNA duplexes to a gold surface and then
+compressing the duplexes with a mica
+surface, the team showed that silver-
+paired DNA duplexes are stiffer than
+nature's, confirming past predictions.
+
+“This
+stiffness is an important parameter for
+building nanoscale DNA materials that
+take advantage of the special properties
+of DNA-metal interactions.
+
+Intercalation is the reversible inclusion or insertion of a molecule (or ion) into layered materials with layered structures. Examples are found in graphite and transition metal dichalcogenides. (Wikipedia).
+
+Polarization, or polarisation, is a property of transverse waves which specifies the geometrical orientation of the oscillations. In a transverse wave, the direction of the oscillation is perpendicular to the direction of motion of the wave.
+Source: Wikipedia
+
+Circular dichroism (CD) is dichroism involving circularly polarized light, i.e., the differential absorption
+ 
+Atomic force microscopy
+We also characterize the morphology of the
+Ag+
+−DNA complexes using liquid-phase atomic force
+microscopy (AFM). 
+
+Surface force apparatus (SFA)
+The Surface Force Apparatus (SFA) is a scientific instrument which measures the interaction force of two surfaces as they are brought together and retracted using multiple beam interferometry to monitor surface separation and directly measure contact area and observe any surface deformations occurring in the contact zone.
+
+When ligand binds onto receptor attached to DNA origami, can that induce a conformational change?
+
+
