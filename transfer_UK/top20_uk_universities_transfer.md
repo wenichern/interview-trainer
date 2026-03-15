@@ -1,11 +1,11 @@
-# Top 10 UK Universities for Transfer from USA
+# Top 20 UK Universities for Transfer from USA
 
 **Is it possible?**
 Yes — transferring from a US university to a UK university is possible, but it works differently than within the US. UK universities generally do not have a direct credit-transfer system. Most require re-entry at Year 1 or Year 2, and admission is based on your current academic record, personal statement, and academic references.
 
 ---
 
-## Top 10 UK Universities Accepting Transfer/Advanced-Entry Students
+## Top 20 UK Universities Accepting Transfer/Advanced-Entry Students
 
 | # | University | Location | Notes |
 |---|-----------|----------|-------|
@@ -19,6 +19,16 @@ Yes — transferring from a US university to a UK university is possible, but it
 | 8 | University of Glasgow | Glasgow, Scotland | Scottish 4-year degree structure allows flexible entry |
 | 9 | University of Nottingham | Nottingham | Considers credit for prior learning |
 | 10 | University of Sheffield | Sheffield | Accepts transfer students; strong student support services |
+| 11 | University of Birmingham | Birmingham | Large research university; welcomes international advanced entry |
+| 12 | University of Southampton | Southampton | Particularly strong in engineering and sciences |
+| 13 | Newcastle University | Newcastle | Accepts students with prior higher education experience |
+| 14 | University of Exeter | Exeter | Growing international community; flexible admissions |
+| 15 | University of Warwick | Coventry | Highly ranked; accepts advanced entry in select programs |
+| 16 | Queen Mary University of London (QMUL) | London | London-based; open to transfer applicants |
+| 17 | University of Bath | Bath | Strong STEM and business programs; considers prior study |
+| 18 | Cardiff University | Cardiff, Wales | Welsh university with international transfer pathways |
+| 19 | University of Aberdeen | Aberdeen, Scotland | Scottish institution open to international entry |
+| 20 | Royal Holloway, University of London | Egham, London | Part of the University of London; accepts international transfers |
 
 ---
 
