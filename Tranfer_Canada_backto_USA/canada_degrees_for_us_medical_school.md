@@ -261,6 +261,125 @@ Application:  Apply through AMCAS in June of your final year or gap year
 
 ---
 
+## Bioengineering Path to U.S. MD Medical School
+
+### Can a Bioengineering Degree from Canada Lead to a U.S. MD Program?
+
+**Yes — absolutely.** AMCAS does not require a specific major. U.S. medical schools accept applicants from **any accredited bachelor's degree**, including engineering. A bioengineering applicant actually stands out positively if framed correctly.
+
+> **Key insight:** Most U.S. med school applicants are Life Sciences majors. A bioengineering degree from a top Canadian university creates a **unique, competitive applicant profile** — but requires deliberate prerequisite planning.
+
+---
+
+### The Core Challenge: Prerequisite Gaps
+
+Bioengineering degrees are strong in math, physics, and engineering fundamentals but typically **miss several required pre-med courses**:
+
+| Prerequisite | Covered in Bioengineering? | Action Needed |
+|-------------|:---------------------------:|--------------|
+| Biology I & II with lab | ⚠️ Partial (intro bio usually covered) | Confirm lab hours meet each school's requirements |
+| General Chemistry I & II with lab | ✅ Usually covered | Verify lab component equivalency |
+| Organic Chemistry I & II with lab | ⚠️ Often only 1 semester | **Take full year + labs as electives or externally** |
+| Biochemistry | ⚠️ Sometimes 1 course | May need to supplement with an additional course |
+| Physics I & II with lab | ✅ Well-covered in Bioengineering | Strong MCAT advantage |
+| Mathematics / Statistics | ✅ Well-covered | Strong MCAT advantage |
+| English / Writing | ❌ Rarely required in Bioengineering | Take online or at a U.S. community college |
+| **Psychology** | ❌ Not in Bioengineering | **Must take separately — MCAT-tested (B/B section)** |
+| **Sociology** | ❌ Not in Bioengineering | **Must take separately — MCAT-tested (B/B section)** |
+
+---
+
+### The Advantages of a Bioengineering Degree for MD Admissions
+
+| Advantage | Why It Matters |
+|-----------|---------------|
+| **Unique applicant profile** | Most applicants are Life Sciences majors — a bioengineer stands out in the pool |
+| **Strong quantitative skills** | Physics, calculus, data analysis = MCAT Chemical & Physical Foundations advantage |
+| **Research credentials** | Engineering undergrads often have stronger lab/research portfolios and publications |
+| **Compelling personal statement** | "I want to apply engineering thinking to medicine" is a distinctive, convincing narrative |
+| **MCAT Physics section** | Bioengineering students are better prepared for this section than most applicants |
+| **Systems thinking** | Admissions committees value applicants who see biology and disease at a systems level |
+
+---
+
+### Which Canadian Bioengineering Programs Are Strongest for Pre-Med?
+
+| University | Program | Why It Works for Pre-Med | Intl. Tuition/Year (CAD) |
+|-----------|---------|--------------------------|:------------------------:|
+| **University of Toronto** | Engineering Science (Biomedical Systems) or BASc Biomedical Engineering | Most course flexibility to add pre-med electives; IBBME (Institute of Biomedical Engineering) research access; MD-PhD pathways available | $58,160–$62,940 |
+| **UBC** | Biomedical Engineering (BASc) | Strong life sciences integration; direct access to UBC Faculty of Medicine research; Work Learn co-op options | $42,000–$55,000 |
+| **McMaster University** | Biomedical & Electrical Engineering or Biochemistry & Biomedical Sciences (hybrid) | PBL (problem-based learning) culture prepares directly for medical school learning style; easiest to fill pre-med elective gaps | $36,400–$42,000 |
+| **University of Waterloo** | Biomedical Engineering (BASc, Co-op) | Co-op terms can be placed in clinical or hospital research settings; physics and bio well-covered by default | $41,000–$50,000 |
+| **University of Calgary** | Biomedical Engineering + Cumming School of Medicine proximity | Direct clinical research access through Cumming School of Medicine; smaller cohort = stronger faculty relationships | $28,000–$35,000 |
+| **University of Alberta** | Biomedical Engineering (BASc) | Faculty of Engineering + Faculty of Medicine collaboration; affordable relative to U of T and UBC | $28,500–$34,000 |
+
+---
+
+### Prerequisite Gap-Filling Strategy for Bioengineering Students
+
+The most efficient ways to fill missing prerequisites without overloading your engineering degree:
+
+| Gap Course | Best Way to Fill It | Notes |
+|-----------|--------------------|----|
+| Organic Chemistry II + lab | Take as a free elective within your degree | Most Canadian engineering programs allow 2–3 free electives per year |
+| Psychology (intro) | Online via UNE Online, Athabasca University, or U.S. community college | 3-credit course; self-paced options available |
+| Sociology (intro) | Same as above | 3-credit course; often paired with Psychology prep |
+| English / Writing | First-year writing course at your Canadian university OR online | Most bioengineering programs have a technical writing component — confirm if it qualifies |
+| Extra Biochemistry | Take as elective or audit at your university | Many bioengineering programs include at least 1 semester; confirm if a second is needed |
+
+---
+
+### MCAT Implications for Bioengineering Applicants
+
+| MCAT Section | Bioengg Student Advantage | Bioengg Student Gap |
+|-------------|:------------------------:|:-------------------:|
+| Chemical & Physical Foundations (Chem/Physics) | ✅ Strong — physics and gen chem are core | None |
+| Biological & Biochemical Foundations (Bio/Biochem) | ⚠️ Moderate — depends on program depth | Organic Chemistry II, Cell Biology depth |
+| Psychological, Social & Biological Foundations (Psych/Soc) | ❌ Weak — not covered in engineering | **Must self-study or take courses** |
+| Critical Analysis & Reasoning Skills (CARS) | ⚠️ Moderate — depends on writing background | Practice extensively; not content-based |
+
+> **MCAT target:** 511+ overall; aim for 128–132 on Chem/Physics (your strongest section) to offset any weakness in Psych/Soc while you prepare.
+
+---
+
+### Application Narrative: How to Frame Bioengineering for U.S. MD Programs
+
+A bioengineering applicant should build their personal statement around this theme:
+
+> *"My engineering training gives me a unique lens to understand biological systems, design solutions for medical problems, and approach patient care analytically. I chose bioengineering not as an alternative to medicine, but as the deepest preparation for it."*
+
+**Supporting elements to highlight:**
+- Any medical device, biomaterials, or clinical engineering research (especially NSERC USRA or co-op placements)
+- U.S. clinical shadowing hours — essential to show commitment to patient care, not just technology
+- Any interdisciplinary coursework bridging engineering and clinical medicine
+- Strong performance in biology and chemistry courses — demonstrates science breadth beyond engineering
+
+---
+
+### Recommended Path: Bioengineering → U.S. MD
+
+```
+Year 1–2:    Complete core bioengineering requirements
+             → Add Organic Chemistry II + lab as elective in Year 2
+             → Take English/Writing requirement early
+
+Year 2–3:    Apply for NSERC USRA or co-op placement in biomedical research lab
+             → Take Psychology and Sociology online (Athabasca, UNE, community college)
+             → Begin U.S. clinical shadowing in summers
+
+Year 3–4:    Complete all prerequisites — audit any gaps
+             → Begin MCAT preparation (3–6 months dedicated study)
+             → Sit MCAT in Canada (available in Toronto, Vancouver, Montreal, Calgary)
+             → Request letters of recommendation from science faculty + clinical supervisor
+
+Application: Apply through AMCAS in June of final year or gap year
+             → Frame bioengineering as a strength, not an oddity
+             → Highlight engineering + medicine intersection in personal statement
+             → List all prerequisite courses clearly including online/external courses
+```
+
+---
+
 ## Additional Resources
 
 | Resource | Purpose | Link |
