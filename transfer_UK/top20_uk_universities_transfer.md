@@ -34,31 +34,31 @@ Yes — transferring from a US university to a UK university is possible, but it
 
 ## Universities with Bioengineering / Biomedical Engineering Programs
 
-| # | University | Program Name | Bioeng Available | Intl. Tuition/Year (£) | Notes |
-|---|-----------|-------------|:----------------:|:----------------------:|-------|
-| 1 | University College London (UCL) | Biomedical Engineering (BEng/MEng) | ✅ | £35,000–£38,000 | Top-ranked; strong NHS & research hospital links |
-| 2 | University of Edinburgh | Biomedical Engineering (BEng/MEng) | ✅ | £29,600 | Linked to world-class medical school |
-| 3 | King's College London (KCL) | Biomedical Engineering (BEng/MEng) | ✅ | £33,000 | School of Biomedical Engineering & Imaging Sciences |
-| 4 | University of Manchester | Biomedical Engineering (BEng/MEng) | ✅ | £29,000 | Strong industry connections; excellent facilities |
-| 5 | University of Sheffield | Biomedical Engineering (BEng/MEng) | ✅ | £26,450 | Highly ranked engineering faculty |
-| 6 | University of Birmingham | Biomedical Engineering (BEng/MEng) | ✅ | £26,460 | Strong clinical partnerships |
-| 7 | University of Southampton | Biomedical Engineering (BEng/MEng) | ✅ | £26,000 | Links to Southampton General Hospital |
-| 8 | Newcastle University | Biomedical Engineering (BEng/MEng) | ✅ | £26,500 | Integrated with Faculty of Medicine |
-| 9 | University of Bath | Biomedical Engineering (BEng/MEng) | ✅ | £26,200 | Strong STEM focus; placement year available |
-| 10 | Cardiff University | Biomedical Engineering (BEng/MEng) | ✅ | £24,700 | Links to Wales health sector |
-| 11 | University of Bristol | Biological Sciences / related | ⚠️ | — | No dedicated Bioeng degree; related programs available |
-| 12 | Durham University | Biological Sciences / related | ⚠️ | — | No dedicated Bioeng degree; related programs available |
-| 13 | University of Leeds | Biomedical Sciences | ⚠️ | — | Biomedical Sciences available; no full Bioeng degree |
-| 14 | University of Glasgow | Biomedical Engineering (BEng) | ✅ | £24,000 | Available via School of Engineering |
-| 15 | University of Nottingham | Bioengineering (BEng/MEng) | ✅ | £26,250 | Offered within Faculty of Engineering |
-| 16 | University of Exeter | Biological Sciences / related | ⚠️ | — | No dedicated Bioeng degree |
-| 17 | University of Warwick | Biomedical Engineering | ✅ | £31,650 | Offered jointly with Warwick Medical School |
-| 18 | Queen Mary University of London | Biomedical Engineering (BEng/MEng) | ✅ | £27,200 | Strong engineering school; London location |
-| 19 | University of Aberdeen | Biomedical Sciences / related | ⚠️ | — | No dedicated Bioeng degree; related programs available |
-| 20 | Royal Holloway, University of London | Biological Sciences / related | ⚠️ | — | No dedicated Bioeng degree |
+| # | University | Program Name | Bioeng Available | Bioeng Rank | Intl. Tuition/Year (£) | Notes |
+|---|-----------|-------------|:----------------:|:-----------:|:----------------------:|-------|
+| 1 | University College London (UCL) | Biomedical Engineering (BEng/MEng) | ✅ | 🥇 1st | £35,000–£38,000 | Top-ranked; strong NHS & research hospital links |
+| 2 | King's College London (KCL) | Biomedical Engineering (BEng/MEng) | ✅ | 🥈 2nd | £33,000 | School of Biomedical Engineering & Imaging Sciences |
+| 3 | University of Edinburgh | Biomedical Engineering (BEng/MEng) | ✅ | 🥉 3rd | £29,600 | Linked to world-class medical school |
+| 4 | University of Warwick | Biomedical Engineering | ✅ | 4th | £31,650 | Offered jointly with Warwick Medical School |
+| 5 | University of Manchester | Biomedical Engineering (BEng/MEng) | ✅ | 5th | £29,000 | Strong industry connections; excellent facilities |
+| 6 | University of Sheffield | Biomedical Engineering (BEng/MEng) | ✅ | 6th | £26,450 | Highly ranked engineering faculty |
+| 7 | Queen Mary University of London | Biomedical Engineering (BEng/MEng) | ✅ | 7th | £27,200 | Strong engineering school; London location |
+| 8 | University of Birmingham | Biomedical Engineering (BEng/MEng) | ✅ | 8th | £26,460 | Strong clinical partnerships |
+| 9 | University of Southampton | Biomedical Engineering (BEng/MEng) | ✅ | 9th | £26,000 | Links to Southampton General Hospital |
+| 10 | Newcastle University | Biomedical Engineering (BEng/MEng) | ✅ | 10th | £26,500 | Integrated with Faculty of Medicine |
+| 11 | University of Nottingham | Bioengineering (BEng/MEng) | ✅ | 11th | £26,250 | Offered within Faculty of Engineering |
+| 12 | University of Bath | Biomedical Engineering (BEng/MEng) | ✅ | 12th | £26,200 | Strong STEM focus; placement year available |
+| 13 | University of Glasgow | Biomedical Engineering (BEng) | ✅ | 13th | £24,000 | Available via School of Engineering |
+| 14 | Cardiff University | Biomedical Engineering (BEng/MEng) | ✅ | 14th | £24,700 | Links to Wales health sector |
+| 15 | University of Bristol | Biological Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree; related programs available |
+| 16 | Durham University | Biological Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree; related programs available |
+| 17 | University of Leeds | Biomedical Sciences | ⚠️ | — | — | Biomedical Sciences available; no full Bioeng degree |
+| 18 | University of Exeter | Biological Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree |
+| 19 | University of Aberdeen | Biomedical Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree; related programs available |
+| 20 | Royal Holloway, University of London | Biological Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree |
 
-> ✅ = Dedicated Bioengineering/Biomedical Engineering degree available | Tuition shown for international students (2025/2026 estimates)
-> ⚠️ = Related programs only (Biological Sciences, Biomedical Sciences, etc.) | — = No dedicated Bioeng program; tuition varies by program
+> ✅ = Dedicated Bioengineering/Biomedical Engineering degree available | Bioeng Rank based on program reputation, research output & clinical links (2025/2026)
+> ⚠️ = Related programs only | — = Not applicable; no dedicated Bioeng program
 
 ---
 
