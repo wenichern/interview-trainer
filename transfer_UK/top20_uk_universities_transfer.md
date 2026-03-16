@@ -32,6 +32,36 @@ Yes — transferring from a US university to a UK university is possible, but it
 
 ---
 
+## Universities with Bioengineering / Biomedical Engineering Programs
+
+| # | University | Program Name | Bioeng Available | Notes |
+|---|-----------|-------------|:----------------:|-------|
+| 1 | University College London (UCL) | Biomedical Engineering (BEng/MEng) | ✅ | Top-ranked; strong NHS & research hospital links |
+| 2 | University of Edinburgh | Biomedical Engineering (BEng/MEng) | ✅ | Linked to world-class medical school |
+| 3 | King's College London (KCL) | Biomedical Engineering (BEng/MEng) | ✅ | School of Biomedical Engineering & Imaging Sciences |
+| 4 | University of Manchester | Biomedical Engineering (BEng/MEng) | ✅ | Strong industry connections; excellent facilities |
+| 5 | University of Sheffield | Biomedical Engineering (BEng/MEng) | ✅ | Highly ranked engineering faculty |
+| 6 | University of Birmingham | Biomedical Engineering (BEng/MEng) | ✅ | Strong clinical partnerships |
+| 7 | University of Southampton | Biomedical Engineering (BEng/MEng) | ✅ | Links to Southampton General Hospital |
+| 8 | Newcastle University | Biomedical Engineering (BEng/MEng) | ✅ | Integrated with Faculty of Medicine |
+| 9 | University of Bath | Biomedical Engineering (BEng/MEng) | ✅ | Strong STEM focus; placement year available |
+| 10 | Cardiff University | Biomedical Engineering (BEng/MEng) | ✅ | Links to Wales health sector |
+| 11 | University of Bristol | Biological Sciences / related | ⚠️ | No dedicated Bioeng degree; related programs available |
+| 12 | Durham University | Biological Sciences / related | ⚠️ | No dedicated Bioeng degree; related programs available |
+| 13 | University of Leeds | Biomedical Sciences | ⚠️ | Biomedical Sciences available; no full Bioeng degree |
+| 14 | University of Glasgow | Biomedical Engineering (BEng) | ✅ | Available via School of Engineering |
+| 15 | University of Nottingham | Bioengineering (BEng/MEng) | ✅ | Offered within Faculty of Engineering |
+| 16 | University of Exeter | Biological Sciences / related | ⚠️ | No dedicated Bioeng degree |
+| 17 | University of Warwick | Biomedical Engineering | ✅ | Offered jointly with Warwick Medical School |
+| 18 | Queen Mary University of London | Biomedical Engineering (BEng/MEng) | ✅ | Strong engineering school; London location |
+| 19 | University of Aberdeen | Biomedical Sciences / related | ⚠️ | No dedicated Bioeng degree; related programs available |
+| 20 | Royal Holloway, University of London | Biological Sciences / related | ⚠️ | No dedicated Bioeng degree |
+
+> ✅ = Dedicated Bioengineering/Biomedical Engineering degree available
+> ⚠️ = Related programs only (Biological Sciences, Biomedical Sciences, etc.)
+
+---
+
 ## Key Information for Applicants
 
 - **Application System:** UCAS (ucas.com) is the central UK university application portal
