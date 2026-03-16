@@ -207,6 +207,51 @@ Application Year: Apply through AMCAS in June of your gap/senior year
 
 ---
 
+## Undergraduate Research Opportunity Comparison
+
+> This table ranks each university by the **volume and accessibility of undergraduate research programs**.
+> All 20 universities offer formal undergraduate research — this shows how much is available beyond the basics.
+> **Tier 1** = most structured and abundant; **Tier 3** = solid but fewer formal pathways.
+
+| Research Tier | University | Location | Research Programs Available | What Makes It Stand Out |
+|:-------------:|-----------|---------|----------------------------|------------------------|
+| ⭐⭐⭐ Tier 1 | **University of Oxford** | Oxford, England | UROP (Undergraduate Research Opportunities Programme) + Part II dedicated research year (Year 3) + Wellcome & MRC-funded studentships + 100+ research groups open to undergrads | The **Part II research year** means every science student spends an entire year doing original lab research — unmatched depth in the UK |
+| ⭐⭐⭐ Tier 1 | **University of Cambridge** | Cambridge, England | UROP + Part III research year option + Wellcome Trust-funded UG placements + Gurdon Institute & MRC Laboratory of Molecular Biology UG access | Part III research year produces publication-quality work; some of the world's most prestigious labs open to undergrads |
+| ⭐⭐⭐ Tier 1 | **Imperial College London** | London, England | UROP (formal, paid OR credited — one of UK's oldest UG research programs) + MSci integrated research year + BBSRC/MRC-funded placements | Imperial's UROP is one of the **most structured and well-funded** undergraduate research programs in the UK; paid positions are common |
+| ⭐⭐⭐ Tier 1 | **University College London (UCL)** | London, England | URO (Undergraduate Research Opportunities) + Laidlaw Scholars Programme (2-year leadership + research award) + BBSRC summer fellowships + 30+ institutes | Laidlaw Programme is highly prestigious and includes a funded research project + leadership training — excellent for med school applications |
+| ⭐⭐ Tier 2 | **University of Edinburgh** | Edinburgh, Scotland | EUR (Edinburgh Undergraduate Research) programme + Wellcome Trust-funded summer projects + Honours research project (Years 3–4) + Edinburgh Global Research Scholarships | 4-year Scottish degree means **2 full years** of Honours-level research embedded in the degree — more than any English 3-year program |
+| ⭐⭐ Tier 2 | **University of Glasgow** | Glasgow, Scotland | URO + Wellcome-funded projects + Honours research project (Years 3–4) + Wolfson Medical School research access | 4-year structure gives a dedicated Honours research project; Glasgow Biomedical Research Centre provides clinical research access |
+| ⭐⭐ Tier 2 | **University of St Andrews** | St Andrews, Scotland | URAS (Undergraduate Research Assistant Scheme) + Summer Vacation Scholarships + Honours research dissertation (Years 3–4) + School of Biology research placements | Small university size = significant faculty access; URAS is competitive and well-regarded |
+| ⭐⭐ Tier 2 | **King's College London (KCL)** | London, England | KURF (King's Undergraduate Research Fellowships) + final year research dissertation + Wellcome-funded placements + Randall Centre for Cell & Molecular Biophysics UG access | KURF is a competitive funded fellowship; NHS hospital proximity enables clinical research components |
+| ⭐⭐ Tier 2 | **University of Manchester** | Manchester, England | MURE (Manchester Undergraduate Research Experience) + BBSRC/MRC summer placements + Manchester Cancer Research Centre UG access + National Graphene Institute UG research | MURE is well-structured; Manchester's status as a Russell Group research powerhouse opens doors to major funded projects |
+| ⭐⭐ Tier 2 | **University of Warwick** | Coventry, England | URSS (Undergraduate Research Support Scheme — competitive funded placements) + Warwick Medical School research stream + Wellcome-funded projects | URSS is one of the **most competitive** UK undergraduate research awards outside Oxbridge; Warwick Medical School proximity is a strong pre-med asset |
+| ⭐⭐ Tier 2 | **University of Bristol** | Bristol, England | BOURSE (Bristol Opportunities Undergraduate Research Experience) + summer research funding + MRC/BBSRC fellowships + Bristol Infection & Immunity research access | BOURSE program specifically targets life science undergrads; strong infectious disease and pharmacology research groups |
+| ⭐⭐ Tier 2 | **University of Nottingham** | Nottingham, England | Nottingham Undergraduate Research Scholarships + BBSRC/MRC summer fellowships + Nanoscience & Nanotechnology Research Group UG placements + School of Life Sciences direct placements | Internal scholarship funding is strong; unique nano-bio research access not found at most UK universities |
+| ⭐⭐ Tier 2 | **University of Sheffield** | Sheffield, England | SURE (Sheffield Undergraduate Research Experience — paid summer placements) + MMedSci research year (opt. 4-year track) + MRC Neuroscience partnerships | SURE is a **paid** programme — students receive a stipend; research year in MMedSci track provides a full extra year of research |
+| ⭐⭐ Tier 2 | **University of Aberdeen** | Aberdeen, Scotland | Undergraduate Research Internships via Rowett Institute + School of Medicine placements + Honours research project (Years 3–4) | 4-year Scottish degree provides a built-in Honours research project; Rowett Institute is a world-renowned nutritional and biomedical research centre |
+| ⭐ Tier 3 | **University of Leeds** | Leeds, England | LURE (Leeds Undergraduate Research Experience) + Laidlaw Research & Leadership Programme + BBSRC summer placements + MBiol research year (opt.) | LURE is solid; Laidlaw Programme (shared with UCL) is a prestigious 2-year award available to Leeds students |
+| ⭐ Tier 3 | **University of Birmingham** | Birmingham, England | BURSS (Birmingham Undergraduate Research Scholarship Scheme) + MRC-funded projects + Integrative Biosystems Institute UG access | BURSS is a competitive internal award; fewer formal pathways than Tier 2 but strong faculty research culture |
+| ⭐ Tier 3 | **University of Exeter** | Exeter, England | Exeter Academic Partnership placements + undergraduate lab placements (Year 2–3) + Living Systems Institute UG research | Growing research profile; fewer formal structured programs; faculty supervision quality is high but access is less systematic |
+| ⭐ Tier 3 | **Durham University** | Durham, England | DURI (Durham Undergraduate Research Internship) + final year independent research project + Biophysical Sciences Institute placements | DURI is a well-regarded programme; smaller research footprint than Russell Group peers but intimate faculty relationships |
+| ⭐ Tier 3 | **Queen Mary University of London (QMUL)** | London, England | QMUL Undergraduate Research Fellowship + Barts Cancer Institute placements + Wellcome-funded summer projects | Barts Cancer Institute offers genuine clinical research access; fellowship program is growing but less established than UCL or KCL equivalents |
+| ⭐ Tier 3 | **University of Southampton** | Southampton, England | SURE (Southampton Undergraduate Research Experience) + Wellcome-funded summer projects + Institute for Life Sciences UG placements | SURE programme well-run; Wellcome funding provides stipends; somewhat underutilised by undergrads relative to what's available |
+
+### Research Tier Key
+
+| Tier | Meaning | Best For |
+|------|---------|---------|
+| ⭐⭐⭐ **Tier 1** | Research embedded structurally in the degree (dedicated research year, UROP paid placements, Laidlaw awards) — highest volume and formality | Applicants who want maximum research credentials for competitive U.S. med schools (top 20–30 programs) |
+| ⭐⭐ **Tier 2** | Strong internal programs + BBSRC/MRC/Wellcome funding + Honours research projects (Scottish universities) — strong outcomes with initiative | Applicants who will actively seek out research — very competitive application results with effort |
+| ⭐ **Tier 3** | Solid internal programs + faculty-supervised placements — requires more student-initiated outreach | Applicants balancing research with other priorities; still capable of strong research experience |
+
+> **Scottish Tier 2 note:** Edinburgh, Glasgow, St Andrews, and Aberdeen are listed as Tier 2 rather than Tier 1
+> purely on the basis of **volume of formal programs** compared to Oxbridge and Imperial. However, their
+> **4-year Honours research dissertations** (built into the degree) mean every Scottish student automatically
+> completes a substantial, supervised research project — making them **functionally equivalent to Tier 1**
+> for AMCAS and U.S. medical school application purposes.
+
+---
+
 ## Additional Resources
 
 | Resource | Purpose | Link |
