@@ -34,31 +34,57 @@ Yes — transferring from a US university to a UK university is possible, but it
 
 ## Universities with Bioengineering / Biomedical Engineering Programs
 
-| # | University | Program Name | Bioeng Available | Bioeng Rank | Intl. Tuition/Year (£) | Notes |
-|---|-----------|-------------|:----------------:|:-----------:|:----------------------:|-------|
-| 1 | University College London (UCL) | Biomedical Engineering (BEng/MEng) | ✅ | 🥇 1st | £35,000–£38,000 | Top-ranked; strong NHS & research hospital links |
-| 2 | King's College London (KCL) | Biomedical Engineering (BEng/MEng) | ✅ | 🥈 2nd | £33,000 | School of Biomedical Engineering & Imaging Sciences |
-| 3 | University of Edinburgh | Biomedical Engineering (BEng/MEng) | ✅ | 🥉 3rd | £29,600 | Linked to world-class medical school |
-| 4 | University of Warwick | Biomedical Engineering | ✅ | 4th | £31,650 | Offered jointly with Warwick Medical School |
-| 5 | University of Manchester | Biomedical Engineering (BEng/MEng) | ✅ | 5th | £29,000 | Strong industry connections; excellent facilities |
-| 6 | University of Sheffield | Biomedical Engineering (BEng/MEng) | ✅ | 6th | £26,450 | Highly ranked engineering faculty |
-| 7 | Queen Mary University of London | Biomedical Engineering (BEng/MEng) | ✅ | 7th | £27,200 | Strong engineering school; London location |
-| 8 | University of Birmingham | Biomedical Engineering (BEng/MEng) | ✅ | 8th | £26,460 | Strong clinical partnerships |
-| 9 | University of Southampton | Biomedical Engineering (BEng/MEng) | ✅ | 9th | £26,000 | Links to Southampton General Hospital |
-| 10 | Newcastle University | Biomedical Engineering (BEng/MEng) | ✅ | 10th | £26,500 | Integrated with Faculty of Medicine |
-| 11 | University of Nottingham | Bioengineering (BEng/MEng) | ✅ | 11th | £26,250 | Offered within Faculty of Engineering |
-| 12 | University of Bath | Biomedical Engineering (BEng/MEng) | ✅ | 12th | £26,200 | Strong STEM focus; placement year available |
-| 13 | University of Glasgow | Biomedical Engineering (BEng) | ✅ | 13th | £24,000 | Available via School of Engineering |
-| 14 | Cardiff University | Biomedical Engineering (BEng/MEng) | ✅ | 14th | £24,700 | Links to Wales health sector |
-| 15 | University of Bristol | Biological Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree; related programs available |
-| 16 | Durham University | Biological Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree; related programs available |
-| 17 | University of Leeds | Biomedical Sciences | ⚠️ | — | — | Biomedical Sciences available; no full Bioeng degree |
-| 18 | University of Exeter | Biological Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree |
-| 19 | University of Aberdeen | Biomedical Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree; related programs available |
-| 20 | Royal Holloway, University of London | Biological Sciences / related | ⚠️ | — | — | No dedicated Bioeng degree |
+| # | University | Program Name | Bioeng Available | Bioeng Rank | Intl. Tuition/Year (£) | Nano-Bio | Focus Areas | Notes |
+|---|-----------|-------------|:----------------:|:-----------:|:----------------------:|:--------:|-------------|-------|
+| 1 | University College London (UCL) | Biomedical Engineering (BEng/MEng) | ✅ | 🥇 1st | £35,000–£38,000 | ✅ Strong | Medical imaging, neural engineering, tissue engineering, biomechanics, prosthetics, **nanomedicine, nanoparticle drug delivery** | Top-ranked; strong NHS & research hospital links |
+| 2 | King's College London (KCL) | Biomedical Engineering (BEng/MEng) | ✅ | 🥈 2nd | £33,000 | ✅ Strong | Medical imaging, cardiac devices, surgical robotics, computational biology, **nanomedicine, theranostic nanoparticles** | School of Biomedical Engineering & Imaging Sciences |
+| 3 | University of Edinburgh | Biomedical Engineering (BEng/MEng) | ✅ | 🥉 3rd | £29,600 | ✅ Strong | Neural interfaces, regenerative medicine, biosensors, **nanoscale bioengineering, nanotechnology for diagnostics** | Linked to world-class medical school |
+| 4 | University of Warwick | Biomedical Engineering | ✅ | 4th | £31,650 | ✅ Strong | Systems biology, cellular engineering, bioinformatics, **nanoscale surface science, molecular nanotechnology** | Offered jointly with Warwick Medical School |
+| 5 | University of Manchester | Biomedical Engineering (BEng/MEng) | ✅ | 5th | £29,000 | 🌟 World-class | Biomaterials, tissue engineering, medical robotics, **graphene nanomaterials, nano-bio interfaces** | Home of National Graphene Institute; global leader in nanotechnology |
+| 6 | University of Sheffield | Biomedical Engineering (BEng/MEng) | ✅ | 6th | £26,450 | ✅ Moderate | Orthopaedic engineering, biomechanics, cardiovascular devices, **nanomaterials for implants, nanostructured scaffolds** | Highly ranked engineering faculty |
+| 7 | Queen Mary University of London | Biomedical Engineering (BEng/MEng) | ✅ | 7th | £27,200 | ✅ Moderate | Soft robotics, biomaterials, computational modelling, **nanocomposites, nano-drug delivery systems** | Strong engineering school; London location |
+| 8 | University of Birmingham | Biomedical Engineering (BEng/MEng) | ✅ | 8th | £26,460 | ✅ Moderate | Cardiovascular engineering, medical imaging, biomechanics, **nanoscale materials, nanosensors** | Strong clinical partnerships |
+| 9 | University of Southampton | Biomedical Engineering (BEng/MEng) | ✅ | 9th | £26,000 | ✅ Strong | Acoustics & ultrasound, wearable sensors, **silicon nanotechnology, nanophotonics for biomedical use** | Strong nanoelectronics & nanophotonics institute |
+| 10 | Newcastle University | Biomedical Engineering (BEng/MEng) | ✅ | 10th | £26,500 | ⚠️ Limited | Neural engineering, retinal prosthetics, rehabilitation, assistive technology | Limited dedicated nano-bio; some nanoelectronics research |
+| 11 | University of Nottingham | Bioengineering (BEng/MEng) | ✅ | 11th | £26,250 | ✅ Strong | Drug delivery, biomaterials, biomedical imaging, **nanoparticle drug delivery, nanotoxicology** | Has dedicated Nanoscience & Nanotechnology research group |
+| 12 | University of Bath | Biomedical Engineering (BEng/MEng) | ✅ | 12th | £26,200 | ⚠️ Limited | Biomechanics, regenerative medicine, medical devices, industrial placement | Some nano research via Chemistry dept; limited in Bioeng program |
+| 13 | University of Glasgow | Biomedical Engineering (BEng) | ✅ | 13th | £24,000 | ✅ Strong | Point-of-care diagnostics, **lab-on-chip at nanoscale, nanofabrication, microfluidic nanotechnology**, wearable tech | Strong nanofabrication facility (James Watt Nanofabrication Centre) |
+| 14 | Cardiff University | Biomedical Engineering (BEng/MEng) | ✅ | 14th | £24,700 | ⚠️ Limited | Clinical measurement, medical signal processing, physiological modelling | Limited nano-bio integration in current Bioeng curriculum |
+| 15 | University of Bristol | Biological Sciences / related | ⚠️ | — | — | — | — | No dedicated Bioeng degree; related programs available |
+| 16 | Durham University | Biological Sciences / related | ⚠️ | — | — | — | — | No dedicated Bioeng degree; related programs available |
+| 17 | University of Leeds | Biomedical Sciences | ⚠️ | — | — | — | — | Biomedical Sciences available; no full Bioeng degree |
+| 18 | University of Exeter | Biological Sciences / related | ⚠️ | — | — | — | — | No dedicated Bioeng degree |
+| 19 | University of Aberdeen | Biomedical Sciences / related | ⚠️ | — | — | — | — | No dedicated Bioeng degree; related programs available |
+| 20 | Royal Holloway, University of London | Biological Sciences / related | ⚠️ | — | — | — | — | No dedicated Bioeng degree |
 
 > ✅ = Dedicated Bioengineering/Biomedical Engineering degree available | Bioeng Rank based on program reputation, research output & clinical links (2025/2026)
-> ⚠️ = Related programs only | — = Not applicable; no dedicated Bioeng program
+> 🌟 World-class = Global leader in that area | ✅ Strong = Active research & curriculum integration | ⚠️ Limited = Some research but not core to Bioeng program
+> ⚠️ (Bioeng column) = Related programs only | — = Not applicable; no dedicated Bioeng program
+
+---
+
+## Nanotechnology + Bioengineering — Dedicated Overview
+
+Universities from the list that actively combine **nanotechnology with bioengineering**, ranked by nano-bio strength:
+
+| Nano Rank | University | Nano-Bio Level | Dedicated Nano Program | Key Nano-Bio Specialties | Intl. Tuition/Year (£) |
+|:---------:|-----------|:--------------:|:----------------------:|--------------------------|:----------------------:|
+| 🥇 1 | University of Manchester | 🌟 World-class | MSc Nanoscience; National Graphene Institute | Graphene nanomaterials, nano-bio interfaces, nano drug delivery, nanoelectronics | £29,000 |
+| 🥈 2 | University of Glasgow | ✅ Strong | James Watt Nanofabrication Centre | Lab-on-chip at nanoscale, nanofabrication, microfluidic nanotechnology, nano-biosensors | £24,000 |
+| 🥉 3 | University College London (UCL) | ✅ Strong | MSc Nanotechnology (available) | Nanomedicine, nanoparticle drug delivery, nano-imaging, molecular bioengineering | £35,000–£38,000 |
+| 4 | King's College London (KCL) | ✅ Strong | Nano-related modules in Biomedical Eng | Theranostic nanoparticles, nanomedicine, nano-scale imaging | £33,000 |
+| 5 | University of Edinburgh | ✅ Strong | Nanoscience & nanotechnology research centres | Nanoscale bioengineering, nano diagnostics, nanosensors for medical use | £29,600 |
+| 6 | University of Southampton | ✅ Strong | Zepler Institute for Photonics & Nanoelectronics | Silicon nanotechnology, nanophotonics, nano-biosensing, nano-optics | £26,000 |
+| 7 | University of Nottingham | ✅ Strong | Nanoscience & Nanotechnology Group | Nanoparticle drug delivery, nanotoxicology, nanostructured biomaterials | £26,250 |
+| 8 | University of Warwick | ✅ Strong | Nano-bio modules via Warwick Medical School | Molecular nanotechnology, nanoscale surface science, nanosensors | £31,650 |
+| 9 | University of Sheffield | ✅ Moderate | Nanoscience research within Materials dept | Nanostructured scaffolds, nanomaterials for implants, nano-surface coatings | £26,450 |
+| 10 | Queen Mary University of London | ✅ Moderate | Nano research within Engineering dept | Nanocomposites, nano-drug delivery systems, nanostructured polymers | £27,200 |
+| 11 | University of Birmingham | ✅ Moderate | Nanoscale Physics & Chemistry research groups | Nanosensors, nanoscale materials characterisation, nanoparticle synthesis | £26,460 |
+| 12 | Newcastle University | ⚠️ Limited | Limited dedicated nano-bio curriculum | Some nanoelectronics; not core to Bioeng program | £26,500 |
+| 13 | University of Bath | ⚠️ Limited | Nano research via Chemistry department | Some nanomaterials research; not integrated into Bioeng degree | £26,200 |
+| 14 | Cardiff University | ⚠️ Limited | Limited nano-bio integration | Minimal nanotechnology in current Bioeng curriculum | £24,700 |
+
+> 🌟 World-class = Global research leader | ✅ Strong = Active nano-bio research & curriculum integration | ✅ Moderate = Present but not a primary focus | ⚠️ Limited = Minimal nano-bio in Bioeng program
 
 ---
 
