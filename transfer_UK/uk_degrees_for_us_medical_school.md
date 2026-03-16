@@ -252,6 +252,138 @@ Application Year: Apply through AMCAS in June of your gap/senior year
 
 ---
 
+## Bioengineering Path to U.S. MD Medical School (UK Route)
+
+### Can a UK Bioengineering Degree Lead to a U.S. MD Program?
+
+**Yes — but it carries more complexity than a Canadian bioengineering degree.** Two separate challenges stack on top of each other:
+1. The **UK 3-year degree equivalency issue** (same as for all UK degrees)
+2. The **bioengineering prerequisite gaps** (same challenge as in Canada)
+
+The key to success is choosing the **right program type** from the start.
+
+> **Most important decision:** Choose a **4-year MEng / MSci (Integrated Master's)** track or enroll at a **Scottish university with a 4-year BEng Honours** — do NOT default to a 3-year BEng if your goal is U.S. medical school.
+
+---
+
+### UK Bioengineering Degree Types — AMCAS Comparison
+
+| Degree Type | Length | AMCAS Equivalency | Notes |
+|------------|:------:|:-----------------:|-------|
+| **BEng (Standard)** | 3 years | ⚠️ Risky — 3-year degree may require extra AMCAS scrutiny | Weakest option for U.S. med school |
+| **MEng (Integrated Master's)** | 4 years | ✅ Strong — master's-level degree recognized by AMCAS | Graduate with MEng; treated similarly to a U.S. bachelor's + some graduate work |
+| **BEng Honours (Scottish)** | **4 years** | ✅ Strongest — mirrors U.S. 4-year bachelor's structure | Edinburgh, Glasgow offer this; same AMCAS advantage as Scottish BSc |
+| **MSci / MBiomedSci (Integrated)** | 4 years | ✅ Strong | Some universities offer this for biomedical engineering tracks |
+
+---
+
+### Prerequisite Gaps: UK Bioengineering vs. U.S. Med School Requirements
+
+UK bioengineering programs are **even more engineering-focused** than Canadian ones, meaning the biology and chemistry coverage can be thinner:
+
+| Prerequisite | Covered in UK Bioengineering? | Action Needed |
+|-------------|:-----------------------------:|--------------|
+| Biology I & II with lab | ⚠️ Partial — basic cell biology usually included | Confirm lab hour equivalency with each U.S. med school |
+| General Chemistry I & II with lab | ⚠️ Partial — some programs include, others don't | May need to supplement via online U.S.-accredited course |
+| Organic Chemistry I & II with lab | ❌ Rarely covered in UK Bioengineering | **High priority — take online (UNE, community college) or as elective** |
+| Biochemistry | ⚠️ 1 course usually included | Confirm depth meets U.S. med school standards |
+| Physics I & II with lab | ✅ Well-covered | Strong MCAT advantage |
+| Mathematics / Statistics | ✅ Well-covered | Strong MCAT advantage |
+| English / Writing | ❌ Not standard in engineering degrees | Take online or at U.S. community college in summer |
+| **Psychology** | ❌ Not in engineering | **Must take separately — MCAT B/B section** |
+| **Sociology** | ❌ Not in engineering | **Must take separately — MCAT B/B section** |
+
+> **⚠️ Bigger gap than Canadian programs:** UK bioengineering programs often require *less* general chemistry and biology than Canadian equivalents. Plan to fill **more gaps** than a Canadian bioengineering student would need to.
+
+---
+
+### Top UK Universities for Bioengineering — Pre-Med Focus
+
+These universities have the strongest bioengineering programs **and** the best pathways for U.S. med school applicants:
+
+| # | University | Program | Degree Type | Intl. Tuition/Year (£) | Pre-Med Suitability | Why It Works |
+|---|-----------|---------|:-----------:|:----------------------:|:-------------------:|-------------|
+| 1 | **Imperial College London** | Biomedical Engineering (BEng/MEng) | 3-yr BEng or **4-yr MEng** ✅ | £36,500–£40,000 | ⭐⭐⭐ Excellent | Top-ranked; MEng track gives 4-year AMCAS-friendly degree; UROP paid research placements; global name recognition |
+| 2 | **University College London (UCL)** | Biomedical Engineering (BEng/MEng) | 3-yr BEng or **4-yr MEng** ✅ | £35,000–£38,000 | ⭐⭐⭐ Excellent | Laidlaw Scholars Programme; NHS hospital research proximity; URO research program; strong U.S. med school recognition |
+| 3 | **University of Edinburgh** | Biomedical Engineering (BEng Honours) | **4-yr BEng Honours (Scottish)** ✅ | £29,600–£32,200 | ⭐⭐⭐ Excellent | Scottish 4-year = strongest AMCAS equivalency; integrated Honours research project; lower tuition than London |
+| 4 | **University of Glasgow** | Biomedical Engineering (BEng/MEng) | **4-yr BEng Honours (Scottish)** ✅ | £28,400–£31,000 | ⭐⭐⭐ Excellent | Scottish 4-year structure; Glasgow Royal Infirmary clinical research access; URO research program |
+| 5 | **King's College London (KCL)** | Biomedical Engineering (BEng/MEng) | 3-yr BEng or **4-yr MEng** ✅ | £33,000–£35,000 | ⭐⭐ Strong | School of Biomedical Engineering & Imaging Sciences; NHS Guys & St Thomas's Hospital proximity |
+| 6 | **University of Manchester** | Biomedical Engineering (BEng/MEng) | 3-yr BEng or **4-yr MEng** ✅ | £29,000–£32,500 | ⭐⭐ Strong | National Graphene Institute; MURE research program; strong biomaterials and tissue engineering focus |
+| 7 | **University of Sheffield** | Biomedical Engineering (BEng/MEng) | 3-yr BEng or **4-yr MEng** ✅ | £26,450–£28,500 | ⭐⭐ Strong | SURE paid research placements; strong orthopaedic and cardiovascular engineering; MMedSci research year option |
+| 8 | **University of Nottingham** | Bioengineering (BEng/MEng) | 3-yr BEng or **4-yr MEng** ✅ | £26,250–£28,000 | ⭐⭐ Strong | Dedicated Nanoscience & Nanotechnology group; drug delivery research; BBSRC/MRC summer fellowships |
+| 9 | **University of Southampton** | Biomedical Engineering (BEng/MEng) | 3-yr BEng or **4-yr MEng** ✅ | £26,000–£27,800 | ⭐⭐ Strong | Strong nanophotonics & ultrasound biomedical engineering; SURE research programme |
+| 10 | **University of Birmingham** | Biomedical Engineering (BEng/MEng) | 3-yr BEng or **4-yr MEng** ✅ | £26,460–£28,200 | ⭐⭐ Strong | BURSS research scholarship; cardiovascular engineering; strong NHS clinical partnerships |
+
+> **Best overall choices:** Edinburgh or Glasgow for strongest AMCAS equivalency + lower cost. Imperial or UCL for maximum prestige + U.S. name recognition. Always choose the **4-year MEng or Scottish Honours track** over the 3-year BEng.
+
+---
+
+### UK Bioengineering vs. Canadian Bioengineering — Head-to-Head for U.S. MD
+
+| Factor | UK Bioengineering | Canadian Bioengineering |
+|--------|:-----------------:|:-----------------------:|
+| **Default degree length** | ⚠️ 3 years (BEng) | ✅ 4 years |
+| **4-year option** | ✅ MEng or Scottish Honours | ✅ Always available |
+| **AMCAS equivalency risk** | ⚠️ Higher (unless MEng/Scottish) | ✅ Lower |
+| **Biology/Chemistry coverage** | ⚠️ Often thinner | ⚠️ Moderate gaps |
+| **Prerequisite gap severity** | ❌ More gaps to fill | ⚠️ Fewer gaps |
+| **Tuition cost (USD equiv.)** | £26,000–£40,000 (~$33k–$51k USD) | $18,000–$62,000 CAD (~$13k–$45k USD) |
+| **Proximity to U.S. for summers** | ❌ Transatlantic travel | ✅ Easy border crossing |
+| **Undergraduate research** | ✅ UROP, Laidlaw, SURE programs | ✅ NSERC USRA, co-op options |
+| **Overall risk for U.S. med school** | ⚠️ Moderate-High (without MEng/Scottish) | ✅ Lower with careful planning |
+
+---
+
+### MCAT Profile: UK Bioengineering Applicant
+
+| MCAT Section | Advantage | Gap |
+|-------------|:---------:|:---:|
+| Chemical & Physical Foundations (Chem/Physics) | ✅ Strong | None |
+| Biological & Biochemical Foundations (Bio/Biochem) | ⚠️ Moderate — UK bioengg may have thinner bio coverage | Organic Chemistry, Cell Biology depth |
+| Psychological, Social & Biological Foundations (Psych/Soc) | ❌ Not covered | **Must self-study or take courses** |
+| Critical Analysis & Reasoning Skills (CARS) | ⚠️ Moderate | UK education is less essay-heavy in engineering — practice extensively |
+
+---
+
+### Application Narrative: UK Bioengineering → U.S. MD
+
+> *"Studying biomedical engineering at [University] gave me a rigorous systems-level understanding of human physiology — from biomechanics to molecular diagnostics. Completing my degree in the UK exposed me to the NHS model of universal healthcare, deepening my conviction that engineering solutions must be built around patient needs. I return to the United States to pursue medicine because I want to apply this technical foundation directly to patient care."*
+
+**Key elements to emphasize:**
+- International training = intellectual breadth and adaptability
+- Engineering + clinical research combination = rare and compelling profile
+- U.S. clinical hours (summers) = commitment to American medicine and patient care
+- Strong MCAT Physical/Chemical section score — leverage your engineering advantage
+
+---
+
+### Recommended Path: UK Bioengineering → U.S. MD
+
+```
+Before Enrollment:  Choose 4-year MEng track OR enroll at Edinburgh/Glasgow
+                    (Scottish 4-year BEng Honours) — do NOT default to 3-year BEng
+
+Year 1–2:           Complete core bioengineering requirements
+                    → Identify and plan electives to fill bio/chem gaps
+
+Year 2–3:           Apply for UROP, SURE, or Laidlaw research placement
+                    → Take Psychology and Sociology online
+                      (UNE Online, Athabasca University, or U.S. community college)
+                    → Spend summer in the U.S. for clinical shadowing
+
+Year 3–4 (MEng):    Complete integrated master's research project
+                    → Take Organic Chemistry II + lab online or as elective
+                    → Begin MCAT preparation
+                    → Sit MCAT (testing centers available across the UK)
+
+Post-Graduation:    Return to U.S. if needed for additional clinical hours
+                    → Apply through AMCAS in June
+                    → Submit WES evaluation if required by individual med schools
+                    → Frame UK bioengineering experience as a competitive strength
+```
+
+---
+
 ## Additional Resources
 
 | Resource | Purpose | Link |
