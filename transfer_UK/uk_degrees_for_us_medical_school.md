@@ -28,6 +28,8 @@ with U.S. medical school admissions committees.
 
 > **Tuition note:** All figures are approximate annual international (non-EU) undergraduate tuition in GBP (£) for 2025–26. Confirm current fees directly with each university. £1 GBP ≈ $1.27 USD (March 2026).
 
+> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 = **Scottish 4-year university** — highlighted rows are the strongest for U.S. medical school AMCAS equivalency. See analysis below the table.
+
 | # | University | Location | Degree Structure | Intl. Tuition/Year (£) | Key Pre-Med Subjects | Undergrad Research Program | Notes for U.S. Applicants |
 |---|-----------|----------|:----------------:|:----------------------:|---------------------|:-------------------------:|--------------------------|
 | 1 | University of Oxford | Oxford, England | 3-year BA/BSc (some 4-year) | £37,510–£39,010 | Biochemistry, Biomedical Sciences, Biology | ✅ Undergraduate Research Opportunities Programme (UROP); Part II research project in year 3 | Tutoring-based system; exceptional MCAT prep foundation |
@@ -35,9 +37,9 @@ with U.S. medical school admissions committees.
 | 3 | University College London (UCL) | London, England | 3-year BSc (some 4-year) | £35,000–£38,000 | Biomedical Sciences, Biochemistry, Neuroscience | ✅ UCL Undergraduate Research Opportunities (URO); Laidlaw Scholars Programme | Direct proximity to NHS hospitals; excellent research exposure |
 | 4 | Imperial College London | London, England | 3–4-year BSc/MSci | £36,500–£40,000 | Biology, Biochemistry, Biomedical Research | ✅ UROP (Undergraduate Research Opportunities Programme) — formal, paid/credited placements | Strong science focus; well-known to U.S. admissions committees |
 | 5 | King's College London (KCL) | London, England | 3-year BSc (some 4-year) | £33,000–£35,000 | Biomedical Science, Pharmacology, Anatomy | ✅ King's Undergraduate Research Fellowships (KURF); final year research dissertation | School of Life Sciences & Medicine; NHS clinical exposure |
-| 6 | University of Edinburgh | Edinburgh, Scotland | **4-year** MA/BSc | £29,600–£32,200 | Biomedical Sciences, Molecular Biology, Pharmacology | ✅ Edinburgh Undergraduate Research (EUR) programme; Wellcome Trust-funded projects | 4-year Scottish degree aligns closely with U.S. bachelor's expectations |
-| 7 | University of St Andrews | St Andrews, Scotland | **4-year** BSc | £28,840–£31,000 | Biology, Biochemistry, Biomedical Sciences | ✅ St Andrews Undergraduate Research Assistant Scheme (URAS); Summer Vacation Scholarships | Oldest Scottish university; U.S.-recognized 4-year structure |
-| 8 | University of Glasgow | Glasgow, Scotland | **4-year** BSc | £28,400–£31,000 | Biomedical Sciences, Biochemistry, Anatomy | ✅ Undergraduate Research Opportunities (URO); Honours research project in years 3–4 | Integrated honours degree; well-structured for U.S. equivalency |
+| **6** | **🏴󠁧󠁢󠁳󠁣󠁴󠁿 University of Edinburgh** | **Edinburgh, Scotland** | **✨ 4-year MA/BSc** | **£29,600–£32,200** | **Biomedical Sciences, Molecular Biology, Pharmacology** | **✅ Edinburgh Undergraduate Research (EUR) programme; Wellcome Trust-funded projects** | **4-year Scottish degree — strongest AMCAS equivalency; top research-intensive university** |
+| **7** | **🏴󠁧󠁢󠁳󠁣󠁴󠁿 University of St Andrews** | **St Andrews, Scotland** | **✨ 4-year BSc** | **£28,840–£31,000** | **Biology, Biochemistry, Biomedical Sciences** | **✅ St Andrews Undergraduate Research Assistant Scheme (URAS); Summer Vacation Scholarships** | **4-year Scottish degree — oldest Scottish university; well-recognized by U.S. med schools** |
+| **8** | **🏴󠁧󠁢󠁳󠁣󠁴󠁿 University of Glasgow** | **Glasgow, Scotland** | **✨ 4-year BSc** | **£28,400–£31,000** | **Biomedical Sciences, Biochemistry, Anatomy** | **✅ Undergraduate Research Opportunities (URO); Honours research project in years 3–4** | **4-year Scottish degree — integrated honours; excellent U.S. equivalency standing** |
 | 9 | University of Manchester | Manchester, England | 3-year BSc (some 4-year MBiol) | £29,000–£32,500 | Biomedical Sciences, Pharmacology, Neuroscience | ✅ Manchester Undergraduate Research Experience (MURE); BBSRC-funded summer placements | Large research university; internationally recognized |
 | 10 | University of Warwick | Coventry, England | 3-year BSc (some 4-year) | £31,650–£33,000 | Biomedical Sciences, Life Sciences | ✅ Undergraduate Research Support Scheme (URSS) — competitive funded placements | Highly ranked; rigorous curriculum |
 | 11 | University of Bristol | Bristol, England | 3-year BSc (some 4-year) | £28,100–£31,000 | Biochemistry, Cell Biology, Pharmacology | ✅ Bristol Opportunities Undergraduate Research Experience (BOURSE); summer research funding | Strong research programs; widely recognized internationally |
@@ -47,9 +49,47 @@ with U.S. medical school admissions committees.
 | 15 | University of Leeds | Leeds, England | 3-year BSc (some 4-year MBiol) | £26,500–£28,250 | Biomedical Sciences, Pharmacology, Neuroscience | ✅ Leeds Undergraduate Research Experience (LURE); Laidlaw Research & Leadership Programme | Large university with integrated year-abroad options |
 | 16 | University of Birmingham | Birmingham, England | 3-year BSc (some 4-year) | £26,460–£28,200 | Biomedical Science, Biochemistry, Medical Science | ✅ Birmingham Undergraduate Research Scholarship Scheme (BURSS); MRC-funded projects | Strong clinical partnerships with NHS trusts |
 | 17 | Durham University | Durham, England | 3-year BSc | £27,750–£29,000 | Biological Sciences, Biochemistry | ✅ Durham Undergraduate Research Internship (DURI); final year independent research project | High academic standing; structured and rigorous degree format |
-| 18 | University of Aberdeen | Aberdeen, Scotland | **4-year** BSc | £22,800–£25,000 | Biomedical Sciences, Medical Sciences, Pharmacology | ✅ Undergraduate Research Internships via Rowett Institute & School of Medicine | Scottish 4-year structure; recognized by AMCAS; most affordable on this list |
+| **18** | **🏴󠁧󠁢󠁳󠁣󠁴󠁿 University of Aberdeen** | **Aberdeen, Scotland** | **✨ 4-year BSc** | **£22,800–£25,000** | **Biomedical Sciences, Medical Sciences, Pharmacology** | **✅ Undergraduate Research Internships via Rowett Institute & School of Medicine** | **4-year Scottish degree — most affordable on this list; solid AMCAS equivalency** |
 | 19 | Queen Mary University of London (QMUL) | London, England | 3-year BSc (some 4-year) | £27,200–£29,000 | Biomedical Science, Pharmacology, Cancer Biology | ✅ QMUL Undergraduate Research Fellowship; Barts Cancer Institute placements | Part of University of London; close NHS hospital ties |
 | 20 | University of Southampton | Southampton, England | 3-year BSc (some 4-year) | £26,000–£27,800 | Biomedical Sciences, Biochemistry, Neuroscience | ✅ Southampton Undergraduate Research Experience (SURE); Wellcome-funded summer projects | Strong research university; Wellcome-funded research programs |
+
+---
+
+## 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Do Scottish 4-Year Degrees Give a Better Chance of Getting Into U.S. Medical School?
+
+**Short answer: Yes — structurally, they are the safest UK degree choice for a U.S. med school applicant.** Here is a nuanced breakdown:
+
+### Why Scottish 4-Year Degrees Have an Advantage
+
+| Factor | Scottish 4-Year Degree | English 3-Year Degree |
+|--------|----------------------|----------------------|
+| **AMCAS Equivalency** | ✅ Very strong — closely mirrors U.S. 4-year bachelor's | ⚠️ Can be accepted, but may require extra scrutiny or explanation |
+| **Credit Hours** | Typically 480 SCQF credits ≈ 120 U.S. semester credit hours | Often 360 credits — may fall short of U.S. expectations |
+| **Depth of Study** | 4 full years of science coursework | Condensed; less breadth in prerequisite coverage |
+| **U.S. Med School Perception** | Treated more similarly to a U.S. BS degree | May prompt admissions offices to ask for clarification |
+| **Research Exposure** | Years 3 & 4 include dedicated Honours research | Less time; research is often compressed into final year |
+| **MCAT Foundation** | Extra year of science = broader content coverage for MCAT | Must supplement more with self-study |
+
+### Does It Directly Improve Your Odds of Getting In?
+
+**The degree structure helps, but it does not automatically increase acceptance rates.** U.S. medical school admission is holistic. What a Scottish 4-year degree does for you:
+
+- ✅ **Removes a major admissions barrier** — AMCAS reviewers are less likely to question your degree's equivalency
+- ✅ **Reduces the risk of rejection solely based on degree format**
+- ✅ **Gives you an extra year** to complete prerequisites, accumulate research, and build your application
+- ✅ **Stronger academic narrative** — 4 years of rigorous science training at a globally recognized institution is compelling
+- ⚠️ **Does NOT replace** U.S. clinical hours, MCAT score, GPA, or letters of recommendation — these still matter most
+
+### Best Scottish Choice by Goal
+
+| If your priority is... | Best Scottish University |
+|-----------------------|-------------------------|
+| Prestige + research | **University of Edinburgh** (ranked #6 globally in life sciences) |
+| U.S. recognition + smaller community | **University of St Andrews** (well-known to U.S. admissions committees) |
+| Large research + clinical exposure | **University of Glasgow** (major city; NHS Greater Glasgow access) |
+| Affordability + solid degree | **University of Aberdeen** (most affordable; strong Biomedical Sciences program) |
+
+> **Bottom line:** If the applicant is choosing between a 3-year English degree and a 4-year Scottish degree of similar quality, **choose the Scottish 4-year degree**. It is the single easiest way to remove degree-equivalency risk from the U.S. medical school application process.
 
 ---
 
