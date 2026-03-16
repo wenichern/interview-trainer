@@ -202,6 +202,50 @@ Application:  Apply through AMCAS in June of your final year or gap year
 
 ---
 
+## Undergraduate Research Opportunity Comparison
+
+> This table ranks each university by the **volume and accessibility of undergraduate research programs**
+> beyond the baseline NSERC USRA (which all 20 universities offer).
+> **Tier 1** = most structured and abundant; **Tier 3** = solid but fewer formal pathways.
+
+| Research Tier | University | Province | Research Programs Available | What Makes It Stand Out |
+|:-------------:|-----------|---------|----------------------------|------------------------|
+| ⭐⭐⭐ Tier 1 | **University of Toronto** | Ontario | NSERC USRA + ROP299/399 (credited research course from Year 2) + UTEA summer fellowships + 40+ affiliated research institutes | Only Canadian university where research is a **credited course** — students can start lab work in 2nd year as part of their degree |
+| ⭐⭐⭐ Tier 1 | **University of Waterloo** | Ontario | NSERC USRA + **mandatory Co-op program** (2–3 paid research/industry work terms) + Waterloo Institute for Nanotechnology UG placements | Co-op model means **every student** does paid research or industry work — most structured undergraduate research integration in Canada |
+| ⭐⭐⭐ Tier 1 | **UBC** | British Columbia | NSERC USRA + Work Learn Research program + Directed Studies (BIOL/CHEM 449 for credit) + Multidisciplinary Undergraduate Research Conference (MURC) | Multiple overlapping research pathways; massive research infrastructure across life sciences and health sciences |
+| ⭐⭐⭐ Tier 1 | **McMaster University** | Ontario | NSERC USRA + USRE + **iSci Integrated Science Stream** (research embedded from Year 1) + PBL curriculum mirrors med school | iSci stream integrates research into coursework from day one — ideal pre-med research foundation |
+| ⭐⭐ Tier 2 | **McGill University** | Québec | NSERC USRA + internal Undergraduate Research Award (URA) + SURE (summer engineering research) + high NSERC success rate | Very high NSERC USRA success rate; strong 1-on-1 faculty mentorship culture; world-class research hospitals adjacent |
+| ⭐⭐ Tier 2 | **Queen's University** | Ontario | NSERC USRA + SURP (Summer Undergraduate Research Program) + Queen's Research Internship + smaller cohort = more faculty access | Small student-to-faculty ratio means undergrads get **real, sustained** research mentorship — not just lab grunt work |
+| ⭐⭐ Tier 2 | **University of Alberta** | Alberta | NSERC USRA + Undergraduate Research Initiative (URI) + Faculty of Medicine research placements + NSERC CREATE programs | URI provides internal funding competitive with NSERC; medical school on campus opens clinical research doors |
+| ⭐⭐ Tier 2 | **University of Calgary** | Alberta | NSERC USRA + URE awards + **Cumming School of Medicine** undergraduate research partnerships | Cumming School of Medicine gives pre-med undergrads direct access to clinical and translational research projects |
+| ⭐⭐ Tier 2 | **Western University** | Ontario | NSERC USRA + Western Summer Research Program + Dean's Distinguished Research Award + Medical Sciences research stream | Medical Sciences program has built-in research components; strong Schulich School of Medicine collaboration |
+| ⭐⭐ Tier 2 | **McMaster University** | Ontario | Already listed in Tier 1 above | — |
+| ⭐⭐ Tier 2 | **Simon Fraser University** | British Columbia | NSERC USRA + USRA@SFU + Co-op research placements + Undergraduate Research Journal (publish UG work) | One of few Canadian universities with a **dedicated undergraduate research journal** — builds publication record |
+| ⭐⭐ Tier 2 | **University of Victoria** | British Columbia | NSERC USRA + JCURA (Jamie Cassels Undergraduate Research Awards — internal funded awards) + Co-op research terms | JCURA is a well-funded internal award separate from NSERC; strong biochemistry department research culture |
+| ⭐⭐ Tier 2 | **Dalhousie University** | Nova Scotia | NSERC USRA + SURGE (Summer Undergraduate Research in Global Health) + faculty assistantships | SURGE targets health-focused undergrads — perfect for pre-med applicants; smaller classes = meaningful mentorship |
+| ⭐⭐ Tier 2 | **University of Ottawa** | Ontario | NSERC USRA + UROP (Undergraduate Research Opportunity Program) + USRA competitions + proximity to federal health agencies (Health Canada, CIHR) | Government lab research opportunities unique to Ottawa's location — resume differentiator |
+| ⭐ Tier 3 | **University of Manitoba** | Manitoba | NSERC USRA + URGP + summer lab placements | Solid baseline; Rady Faculty of Health Sciences partnerships available but fewer formal programs |
+| ⭐ Tier 3 | **University of Saskatchewan** | Saskatchewan | NSERC USRA + NSERC CREATE programs + College of Medicine research | Good baseline; USASK med school on campus creates some pre-med research access |
+| ⭐ Tier 3 | **Carleton University** | Ontario | NSERC USRA + CURVE + co-op options | CURVE is actively promoted; Ottawa government health agencies accessible for placements |
+| ⭐ Tier 3 | **York University** | Ontario | NSERC USRA + Faculty of Science USRA + Work-Study positions | Solid baseline; proximity to U of T hospitals creates some spillover opportunities |
+| ⭐ Tier 3 | **Concordia University** | Québec | NSERC USRA + CURE + SURA (Summer Undergraduate Research Award) | Growing research profile; SURA is a well-structured internal program; Montreal research community is accessible |
+| ⭐ Tier 3 | **Laval University** | Québec | NSERC USRA + PBRPC summer fellowships | ⚠️ French-language instruction; research opportunities are solid but all conducted in French |
+| ⭐ Tier 3 | **University of New Brunswick** | New Brunswick | NSERC USRA + faculty research assistantships + Undergraduate Research Symposium | Strong faculty access due to small size; fewer formal programs than larger universities |
+
+### Research Tier Key
+
+| Tier | Meaning | Best For |
+|------|---------|---------|
+| ⭐⭐⭐ **Tier 1** | Multiple formal research programs; research embedded structurally in curriculum or via co-op | Applicants who want maximum research credentials for competitive U.S. med schools |
+| ⭐⭐ **Tier 2** | NSERC + strong internal programs + good faculty mentorship culture | Applicants who will actively seek out research — strong outcomes with effort |
+| ⭐ **Tier 3** | NSERC baseline + faculty discretion | Applicants balancing research with other priorities; still competitive with initiative |
+
+> **Note:** All tiers are capable of producing strong research credentials for AMCAS. Tier 1 universities
+> make it **structurally easier** to accumulate research hours. At Tier 3 universities, the same outcomes
+> are achievable — they require more **student-initiated outreach** to faculty.
+
+---
+
 ## Cost Comparison: Canada vs. UK (Annual International Tuition in USD, approx.)
 
 | University | Country | Annual Tuition (CAD/GBP) | Annual Tuition (USD approx.) |
