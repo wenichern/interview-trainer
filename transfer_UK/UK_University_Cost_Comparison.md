@@ -10,19 +10,19 @@
 
 | # | University | City | Tuition (£/yr) | Accommodation (£/yr) | Food (£/yr) | Other Living Costs (£/yr) | NHS Surcharge (£/yr) | Round-Trip Flights (£/yr) | **Est. Total (£/yr)** |
 |---|-----------|------|:--------------:|:-------------------:|:-----------:|:------------------------:|:-------------------:|:------------------------:|:--------------------:|
-| 1 | **Imperial College London** | London | £38,000 | £12,200 | £3,000 | £3,000 | £776 | £800 | **£57,776** |
-| 2 | **University College London (UCL)** | London | £32,100 | £12,480 | £2,760 | £2,900 | £776 | £800 | **£51,816** |
-| 3 | **King's College London (KCL)** | London | £29,640 | £11,400 | £2,760 | £2,900 | £776 | £800 | **£48,276** |
-| 4 | **Medicine at St Andrews** | St Andrews | £30,540 | £7,500 | £2,400 | £1,800 | £776 | £950 | **£43,966** |
-| 5 | **Durham University** | Durham | £29,800 | £7,200 | £2,300 | £1,700 | £776 | £900 | **£42,676** |
-| 6 | **University of Edinburgh** | Edinburgh | £30,400 | £7,800 | £2,400 | £1,800 | £776 | £900 | **£44,076** |
-| 7 | **University of Manchester** | Manchester | £29,000 | £7,500 | £2,400 | £1,800 | £776 | £850 | **£42,326** |
-| 8 | **University of Warwick** | Coventry | £29,000 | £6,800 | £2,300 | £1,700 | £776 | £850 | **£41,426** |
-| 9 | **University of Bristol** | Bristol | £27,000 | £7,800 | £2,400 | £1,800 | £776 | £850 | **£40,626** |
-| 10 | **University of Leeds** | Leeds | £27,000 | £6,800 | £2,300 | £1,600 | £776 | £900 | **£39,376** |
-| 11 | **University of Glasgow** | Glasgow | £27,150 | £6,900 | £2,200 | £1,600 | £776 | £900 | **£39,526** |
-| 12 | **University of Exeter** | Exeter | £26,600 | £7,000 | £2,300 | £1,700 | £776 | £850 | **£39,226** |
-| 13 | **University of Nottingham** | Nottingham | £25,000 | £6,500 | £2,200 | £1,600 | £776 | £850 | **£36,926** |
+| 1 | **Imperial College London** | London | £40,500 | £12,200 | £3,000 | £3,000 | £776 | £800 | **£60,276** |
+| 2 | **University College London (UCL)** | London | £36,500 | £12,480 | £2,760 | £2,900 | £776 | £800 | **£56,216** |
+| 3 | **Medicine at St Andrews** | St Andrews | £39,800 | £7,500 | £2,400 | £1,800 | £776 | £950 | **£53,226** |
+| 4 | **King's College London (KCL)** | London | £35,000 | £11,400 | £2,760 | £2,900 | £776 | £800 | **£53,636** |
+| 5 | **University of Edinburgh** | Edinburgh | £34,000 | £7,800 | £2,400 | £1,800 | £776 | £900 | **£47,676** |
+| 6 | **University of Warwick** | Coventry | £31,000 | £6,800 | £2,300 | £1,700 | £776 | £850 | **£43,426** |
+| 7 | **Durham University** | Durham | £30,000 | £7,200 | £2,300 | £1,700 | £776 | £900 | **£42,876** |
+| 8 | **University of Manchester** | Manchester | £29,500 | £7,500 | £2,400 | £1,800 | £776 | £850 | **£42,826** |
+| 9 | **University of Bristol** | Bristol | £29,500 | £7,800 | £2,400 | £1,800 | £776 | £850 | **£43,126** |
+| 10 | **University of Glasgow** | Glasgow | £28,500 | £6,900 | £2,200 | £1,600 | £776 | £900 | **£40,876** |
+| 11 | **University of Leeds** | Leeds | £28,500 | £6,800 | £2,300 | £1,600 | £776 | £900 | **£40,876** |
+| 12 | **University of Exeter** | Exeter | £28,100 | £7,000 | £2,300 | £1,700 | £776 | £850 | **£40,726** |
+| 13 | **University of Nottingham** | Nottingham | £28,000 | £6,500 | £2,200 | £1,600 | £776 | £850 | **£39,926** |
 
 ---
 
@@ -30,29 +30,29 @@
 
 | # | University | **Est. Total (£/yr)** | **Est. Total ($/yr)** |
 |---|-----------|:--------------------:|:--------------------:|
-| 1 | **Imperial College London** | £57,776 | **$73,375** |
-| 2 | **UCL** | £51,816 | **$65,806** |
-| 3 | **KCL** | £48,276 | **$61,310** |
-| 4 | **University of Edinburgh** | £44,076 | **$55,977** |
-| 5 | **Medicine at St Andrews** | £43,966 | **$55,837** |
-| 6 | **Durham University** | £42,676 | **$54,198** |
-| 7 | **University of Manchester** | £42,326 | **$53,754** |
-| 8 | **University of Warwick** | £41,426 | **$52,611** |
-| 9 | **University of Bristol** | £40,626 | **$51,595** |
-| 10 | **University of Glasgow** | £39,526 | **$50,198** |
-| 11 | **University of Leeds** | £39,376 | **$50,007** |
-| 12 | **University of Exeter** | £39,226 | **$49,817** |
-| 13 | **University of Nottingham** | £36,926 | **$46,896** |
+| 1 | **Imperial College London** | £60,276 | **$76,550** |
+| 2 | **UCL** | £56,216 | **$71,394** |
+| 3 | **KCL** | £53,636 | **$68,118** |
+| 4 | **Medicine at St Andrews** | £53,226 | **$67,597** |
+| 5 | **University of Edinburgh** | £47,676 | **$60,548** |
+| 6 | **University of Warwick** | £43,426 | **$55,151** |
+| 7 | **University of Bristol** | £43,126 | **$54,770** |
+| 8 | **Durham University** | £42,876 | **$54,452** |
+| 9 | **University of Manchester** | £42,826 | **$54,389** |
+| 10 | **University of Glasgow** | £40,876 | **$51,912** |
+| 11 | **University of Leeds** | £40,876 | **$51,912** |
+| 12 | **University of Exeter** | £40,726 | **$51,722** |
+| 13 | **University of Nottingham** | £39,926 | **$50,706** |
 
 ---
 
 ## 📝 Cost Breakdown Details
 
 ### 🎓 Tuition Fees
-- Fees shown are for **international (overseas) science/lab-based undergraduate programs** (e.g., Biomedical Science, Biology, Chemistry).
+- Fees shown are for **international (overseas) science/lab-based undergraduate programs** (e.g., Biomedical Science, Biology, Chemistry). Tuition ranges vary widely by program — arts/humanities are typically at the lower end, science/engineering mid-range, and medicine at the top.
 - Medicine-specific degrees (MBBS/MBChB) are **significantly higher** — often £40,000–£55,000+/year.
 - Most UK universities offer a **cohort fee guarantee** — your tuition stays the same for the duration of your degree.
-- Imperial is the most expensive; Nottingham offers the best value among these institutions.
+- Imperial and UCL are the most expensive; Nottingham offers the best value among these institutions.
 
 ### 🏠 Accommodation (University Halls — Self-Catered)
 - **London universities** (UCL, KCL, Imperial): £10,000–£13,000/year — London housing is ~60% more expensive.
@@ -113,19 +113,19 @@
 
 | Rank | University | City Type | $/year |
 |:----:|-----------|-----------|:------:|
-| 1 | **University of Nottingham** | Mid-size English city | ~$46,900 |
-| 2 | **University of Exeter** | Mid-size English city | ~$49,800 |
-| 3 | **University of Leeds** | Large Northern city | ~$50,000 |
-| 4 | **University of Glasgow** | Large Scottish city | ~$50,200 |
-| 5 | **University of Bristol** | Large Western city | ~$51,600 |
-| 6 | **University of Warwick** | Coventry/Midlands | ~$52,600 |
-| 7 | **University of Manchester** | Large Northern city | ~$53,800 |
-| 8 | **Durham University** | Small Northern city | ~$54,200 |
-| 9 | **Medicine at St Andrews** | Small Scottish town | ~$55,800 |
-| 10 | **University of Edinburgh** | Large Scottish city | ~$56,000 |
-| 11 | **King's College London (KCL)** | London | ~$61,300 |
-| 12 | **University College London (UCL)** | London | ~$65,800 |
-| 13 | **Imperial College London** | London | ~$73,400 |
+| 1 | **University of Nottingham** | Mid-size English city | ~$50,700 |
+| 2 | **University of Exeter** | Mid-size English city | ~$51,700 |
+| 3 | **University of Glasgow** | Large Scottish city | ~$51,900 |
+| 4 | **University of Leeds** | Large Northern city | ~$51,900 |
+| 5 | **University of Manchester** | Large Northern city | ~$54,400 |
+| 6 | **Durham University** | Small Northern city | ~$54,500 |
+| 7 | **University of Bristol** | Large Western city | ~$54,800 |
+| 8 | **University of Warwick** | Coventry/Midlands | ~$55,200 |
+| 9 | **University of Edinburgh** | Large Scottish city | ~$60,500 |
+| 10 | **Medicine at St Andrews** | Small Scottish town | ~$67,600 |
+| 11 | **King's College London (KCL)** | London | ~$68,100 |
+| 12 | **University College London (UCL)** | London | ~$71,400 |
+| 13 | **Imperial College London** | London | ~$76,600 |
 
 ---
 
@@ -133,11 +133,12 @@
 
 1. **London is significantly more expensive** — not just tuition, but rent is nearly double that of other UK cities.
 2. **3-year degrees save a full year** compared to US 4-year programs — total cost over the degree can be comparable or cheaper than US private universities.
-3. **Nottingham, Exeter, and Leeds** offer the best value among this shortlist (~$47,000–$50,000/year).
-4. **Imperial is the premium option** at ~$73,400/year — comparable to top US private universities.
-5. **NHS surcharge** replaces the need for separate health insurance — a significant saving vs. US health insurance costs.
-6. **Working while studying**: International students can work up to **20 hours/week** during term and full-time during holidays — this can offset £3,000–£5,000/year.
-7. **Total 3-year degree cost** ranges from **~$141,000 (Nottingham) to ~$220,000 (Imperial)**.
+3. **Nottingham, Exeter, Glasgow, and Leeds** offer the best value among this shortlist (~$51,000–$52,000/year).
+4. **Imperial is the premium option** at ~$76,600/year — comparable to top US private universities.
+5. **St Andrews Medicine is expensive** at ~$67,600/year despite being outside London — their pre-clinical Medicine tuition alone is ~£39,800.
+6. **NHS surcharge** replaces the need for separate health insurance — a significant saving vs. US health insurance costs.
+7. **Working while studying**: International students can work up to **20 hours/week** during term and full-time during holidays — this can offset £3,000–£5,000/year.
+8. **Total 3-year degree cost** ranges from **~$152,000 (Nottingham) to ~$230,000 (Imperial)**.
 
 ---
 
