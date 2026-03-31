@@ -165,9 +165,12 @@
 | Factor | Canada (4 yr) | UK (3 yr) | U.S. (4 yr) |
 |--------|:------------:|:---------:|:-----------:|
 | **Degree Length** | 4 years | 3 years | 4 years |
-| **Cheapest option (total degree, USD)** | ~$124K (Dalhousie) | ~$141K (Nottingham) | ~$100K (in-state public) |
-| **Mid-range option (total degree, USD)** | ~$159K (Ottawa) | ~$155K (Bristol) | ~$200K (out-of-state public) |
-| **Most expensive (total degree, USD)** | ~$276K (U of T) | ~$220K (Imperial) | ~$320K+ (top private) |
+| **Cheapest option (total degree, USD)** | ~$124K (Dalhousie) | ~$152K (Nottingham) | ~$100K (in-state public) |
+| **Cheapest option (per year, USD)** | ~$30,900 (Dalhousie) | ~$50,700 (Nottingham) | ~$25,000 (in-state public) |
+| **Mid-range option (total degree, USD)** | ~$159K (Ottawa) | ~$164K (Bristol) | ~$200K (out-of-state public) |
+| **Mid-range option (per year, USD)** | ~$39,800 (Ottawa) | ~$54,800 (Bristol) | ~$50,000 (out-of-state public) |
+| **Most expensive (total degree, USD)** | ~$276K (U of T) | ~$230K (Imperial) | ~$320K+ (top private) |
+| **Most expensive (per year, USD)** | ~$68,900 (U of T) | ~$76,600 (Imperial) | ~$80,000+ (top private) |
 | **AMCAS Degree Recognition** | ✅ Excellent | ⚠️ Requires explanation (3-yr) | ✅ Standard |
 | **Currency Advantage** | ✅ CAD ~28% cheaper than USD | ❌ GBP ~27% more expensive | — |
 | **Work while studying** | 20 hrs/week on-campus (off-campus newly restricted) | 20 hrs/week | Varies by institution |
