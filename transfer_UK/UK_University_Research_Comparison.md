@@ -264,6 +264,80 @@ Berkeley is the **#1 public research university in the world** with massive biom
 - All UK institutions charge an **NHS Immigration Health Surcharge** (£776/yr) which gives full NHS access.
 - UC Berkeley charges for **Student Health Insurance Plan (SHIP)** — can be waived with equivalent coverage.
 
+### <mark>💲 UC Berkeley Cost-Saving Strategy: Community College Credits</mark>
+
+UC Berkeley L&S students can take courses at a **California Community College (CCC)** to satisfy requirements and potentially reduce total costs. Here's how it works:
+
+#### UC Berkeley L&S Degree Requirements (120 semester units total)
+| Requirement | Units | Where It Must Be Completed |
+|---|---|---|
+| **Total units for B.A.** | **120** | Mix of Berkeley + transfer credits |
+| **Upper division (100-199 level)** | **36** | Must be at a 4-year institution (Berkeley) |
+| **Upper division in residence** | **18** | Must be at UC Berkeley |
+| **Upper division in major** | **12** | Must be at UC Berkeley |
+| **Senior residence** (after 90 units) | **24** | Must be at UC Berkeley |
+| **Seven-Course Breadth (GE)** | ~21–28 | ✅ Can be satisfied at CC via IGETC/Cal-GETC |
+| **Lower division major prereqs** | ~15–30 | ✅ Many can be taken at CC (check ASSIST.org) |
+
+#### Strategy 1: Concurrent Enrollment (While at Berkeley)
+
+L&S students can take CC courses **concurrently** during fall/spring or over summer — **no petition required**.
+
+- **CC courses transfer as lower division only** — can satisfy breadth/GE requirements and some major prerequisites
+- **CC grades do NOT factor into your UC Berkeley GPA**
+- Must still maintain **13 units/semester minimum at Berkeley**
+- Berkeley tuition is **flat-rate per semester** (same whether you take 13 or 20 units), so concurrent CC courses are an **additional** cost, not a replacement
+- **Best use**: Take breadth requirements or major prereqs at CC during **summer** to free up Berkeley semesters for upper-division/major courses → potentially <mark>**graduate 1 semester early** and save ~$50,000</mark> (one semester of tuition + living)
+
+**Summer CC costs (Bay Area):**
+| | CA Community College | UC Berkeley Summer Session |
+|---|---|---|
+| Per-unit cost (CA resident) | **~$46/unit** | $436/unit |
+| Per-unit cost (non-resident) | **~$300–400/unit** | $635/unit |
+| 8 units of breadth courses | **~$370 (resident) / ~$2,800 (non-resident)** | ~$3,500–$5,100 |
+
+> <mark>**Savings**: Even as a non-resident, taking 8 breadth units at a CC over summer costs ~$2,800 vs ~$5,100 at Berkeley Summer Session. And if you've established CA residency (after 1+ year), it drops to just ~$370.</mark>
+
+#### Strategy 2: 2+2 Transfer Pathway (Biggest Savings)
+
+The **most significant cost savings** — start at a California Community College for 2 years, then transfer to Berkeley as a junior:
+
+- Complete **60 UC-transferable semester units** at CC (minimum required for transfer)
+- Complete the **7-course pattern** (2 English, 1 Math, 4 breadth courses) and **IGETC/Cal-GETC** (satisfies all Berkeley breadth/GE)
+- Complete **major preparation courses** (check [ASSIST.org](https://assist.org/) for articulation)
+- Transfer to Berkeley for **2 years** (4 semesters) to complete upper division + major + senior residence
+- Transfer students get **4 semesters** to complete the degree
+
+**Cost comparison: 4-Year Freshman vs 2+2 Transfer (Out-of-State)**
+
+| | 4-Year at Berkeley (Freshman) | 2 Years CC + 2 Years Berkeley (Transfer) |
+|---|---|---|
+| **Years 1–2 tuition** | ~$109,540 (Berkeley OOS) | **~$6,000–$25,000** (CC) |
+| **Years 1–2 living** | ~$80,000 (Berkeley area) | ~$30,000–$50,000 (varies) |
+| **Years 3–4 tuition** | ~$109,540 (Berkeley OOS) | ~$109,540 (Berkeley OOS) |
+| **Years 3–4 living** | ~$80,000 (Berkeley area) | ~$80,000 (Berkeley area) |
+| **Total estimate** | **~$400,000** | <mark>**~$225,000–$265,000**</mark> |
+| **Savings** | — | <mark>**~$135,000–$175,000**</mark> |
+
+> ⚠️ **Important caveats for the 2+2 pathway**:
+> - Berkeley **does not guarantee admission** to transfer applicants (acceptance rate ~16–25% depending on major)
+> - Biomedical/pre-med courses (Organic Chemistry, Biochemistry, Physics) taken at CC may be viewed less favorably by **medical school admissions** compared to Berkeley-taught versions
+> - You miss 2 years of Berkeley campus life, networking, and early research opportunities (though UC Berkeley research access for freshmen/sophomores is limited anyway)
+> - **California Community College students** have the best transfer rates → if the student moves to CA first, they benefit from in-state CC tuition ($46/unit) AND priority transfer consideration
+> - TAG (Transfer Admission Guarantee) is available at 6 UC campuses — **but NOT Berkeley or UCLA**
+
+#### How Many CC Credits Can Transfer?
+
+| Credit Type | Maximum Transferable | Notes |
+|---|---|---|
+| **Total CC units accepted** | **No hard cap** on lower-division transfer units | But only 120 total needed for degree |
+| **Practical limit for transfers** | **~60–70 units** | Beyond this, you're taking courses Berkeley won't apply |
+| **For concurrent students** | **Limited by what's useful** (~15–30 units typical) | Only lower-division breadth/prereqs; must maintain 13 units/semester at Berkeley |
+| **AP/IB exam credit** | Varies by exam and score | Does not count toward unit ceiling |
+| **Subject credit limit** | Some subjects cap at 2–4 transferable courses | e.g., can't transfer unlimited English or math |
+
+> <mark>**Bottom line for CC savings**: The 2+2 transfer pathway can save **$135,000–$175,000** vs 4 years as a freshman — but comes with admission risk and pre-med trade-offs. For a student already admitted to Berkeley, concurrent CC enrollment over summers can help graduate 1 semester early, saving **~$50,000**. For comparison, Glasgow with the World Changers scholarship costs **~$159,000 total** for a full 4-year degree — similar to Berkeley's 2+2 transfer cost, but with guaranteed admission and no pre-med course credibility concerns.</mark>
+
 ### <mark>🎓 How to Get the Glasgow World Changers Global Excellence Scholarship (£10,000/yr)</mark>
 
 > <mark>**No separate application required** — you are automatically assessed based on academic merit when you receive an offer of admission.</mark> Glasgow notifies eligible students within **2 weeks of the offer**.
