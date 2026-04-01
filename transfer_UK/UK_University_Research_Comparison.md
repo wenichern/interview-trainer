@@ -65,7 +65,7 @@ Glasgow is another **Scottish 4-year honours degree** institution (like Edinburg
 - **MRC Centre for Virus Research** on campus
 - Precision Medicine Scotland Innovation Centre — over **£80M infrastructure** for clinical trials
 - **Research Beacons**: Precision Medicine & Chronic Diseases, One Health, The Nano & Quantum World
-- **World Changers Global Excellence Scholarship**: up to **£10,000/yr** tuition fee discount for MVLS international students
+- **World Changers Global Excellence Scholarship**: up to **£10,000/yr** tuition fee discount for MVLS international students (see details below)
 - Study abroad available across Life Sciences programs
 - Biomedical Engineering BEng includes practical hospital visits and strong NHS links
 - **QS World Top 20 in Anatomy & Physiology**; **4th in UK for Biological Sciences** (Times Good University Guide)
@@ -252,7 +252,9 @@ Berkeley is the **#1 public research university in the world** with massive biom
 | **Scholarship Available** | — | Up to £10,000/yr (MVLS) | — | — |
 | **Total with Scholarship** | — | **~$159,310** (with £10K/yr) | — | — |
 
-> **Key takeaway**: Warwick is the most affordable at ~$168,500 for the full degree (3 years), followed by **Glasgow at ~$210,000** (4 years) — or potentially **~$159,000** with the World Changers Global Excellence Scholarship. Edinburgh follows at ~$246,000 (4 years), and UC Berkeley is by far the most expensive at **~$400,000** (4 years out-of-state) — roughly **2.4× Warwick** and **1.9× Glasgow**. Glasgow is **~$36,000 cheaper than Edinburgh** for the same 4-year Scottish degree.
+> **Key takeaway**: With the World Changers Global Excellence Scholarship (AAB / 36 IB), **Glasgow becomes the cheapest option of all four at ~$159,000** for a full 4-year degree — **$9,500 less than Warwick's 3-year degree** (~$168,500) while getting an extra year of study and a mandatory research dissertation. Without the scholarship, Glasgow is still affordable at ~$210,000. Edinburgh follows at ~$246,000 (4 years), and UC Berkeley is by far the most expensive at **~$400,000** (4 years out-of-state). Glasgow with scholarship is **less than half** of Berkeley's cost.
+>
+> **💡 Glasgow scholarship savings: ~$51,000 over 4 years** — and it's guaranteed (not competitive) if you meet the grade threshold.
 
 ### Cost Notes
 - **Glasgow**: Tuition £28,500/yr for international science students. Glasgow is one of the most affordable cities in Scotland/UK. **Free bus travel for under-22s in Scotland**. World Changers Global Excellence Scholarship offers up to **£10,000/yr tuition discount** for MVLS international students. Scottish 4-year honours degrees include a full research dissertation in Year 4.
@@ -261,6 +263,44 @@ Berkeley is the **#1 public research university in the world** with massive biom
 - **Warwick**: 3-year English degree is one year shorter, saving an entire year of living costs + tuition. Tuition for international students in science/biomedical programs.
 - All UK institutions charge an **NHS Immigration Health Surcharge** (£776/yr) which gives full NHS access.
 - UC Berkeley charges for **Student Health Insurance Plan (SHIP)** — can be waived with equivalent coverage.
+
+### 🎓 How to Get the Glasgow World Changers Global Excellence Scholarship (£10,000/yr)
+
+> **No separate application required** — you are automatically assessed based on academic merit when you receive an offer of admission. Glasgow notifies eligible students within **2 weeks of the offer**.
+
+**Eligibility:**
+1. **International or EU (non-UK) fee status**
+2. **Hold an offer** for a 2026 undergraduate programme
+3. **Meet the academic grade threshold** for your college:
+
+| College / Programme | A-Levels Required | IB Required | Scholarship Value |
+|---|---|---|---|
+| **MVLS** (all except Medicine, Dentistry, Vet Med, BSc Psychology) | **AAB** | **36** | **£10,000/yr** |
+| BSc Psychology (MVLS) | AAA | 38 | £10,000/yr |
+| **Science & Engineering** (most programmes) | **AAB** | **36** | **£10,000/yr** |
+| Engineering MEng | A*AA | 39 | £10,000/yr |
+| Computing Science (First year entry) | A*AA | 39 | £10,000/yr |
+| Arts / Social Sciences (most) | AAB | 36 | £7,000/yr |
+| Adam Smith Business School | AAA | 38 | £7,000/yr |
+| Law | A*AA | 39 | £7,000/yr |
+
+**Key details:**
+- **Guaranteed** if you meet the grade threshold — not competitive
+- **Renewable every year** of study (subject to satisfactory academic progress)
+- For predicted grades: scholarship may be withdrawn if final results don't meet the threshold
+- **Cannot be combined** with other UofG discounts or external sponsorship (except Alumni Discount)
+- If applying via **CommonApp** → contact admissions; if via **UCAS** → contact scholarship team
+- For US high school equivalencies, contact Glasgow: [enquiry form](https://www.gla.ac.uk/study/enquire/)
+
+**Impact on total cost (MVLS, 4-year degree):**
+
+| | Without Scholarship | With £10,000/yr Scholarship |
+|---|---|---|
+| Annual tuition | £28,500 ($36,195) | **£18,500 ($23,495)** |
+| Annual total | £41,376 (~$52,548) | **~£28,676 (~$39,848)** |
+| **4-year total** | **~$210,190** | **~$159,310** |
+
+> **Bottom line**: With **AAB at A-Level or 36 IB** (or local equivalent), your Glasgow MVLS degree drops to **~$159,000 total** — cheaper than Warwick's 3-year degree (~$168,500) and **less than half** of UC Berkeley (~$400,000).
 
 ---
 
@@ -317,8 +357,8 @@ Berkeley is the **#1 public research university in the world** with massive biom
 - **Precision Medicine Scotland Innovation Centre** — £80M infrastructure for precision medicine clinical trials, unique among these four
 - College of MVLS has **8 specialized biomedical schools** — more granular specialization than Edinburgh
 - **16 RSB-accredited Life Sciences degrees** — widest range of biomedical UG programs
-- **Lowest 4-year cost: ~$210,000** (or ~$159,000 with World Changers scholarship £10K/yr)
-- **£36,000 cheaper than Edinburgh** for the same Scottish 4-year degree structure
+- **Lowest 4-year cost: ~$210,000** (or **~$159,000 with World Changers scholarship** £10K/yr — the cheapest of ALL four universities, even cheaper than Warwick's 3-year degree)
+- **£36,000 cheaper than Edinburgh** for the same Scottish 4-year degree structure; **with scholarship, ~$87,000 cheaper than Edinburgh**
 - **Free bus travel** for under-22s in Scotland
 - **Drawback**: Lower global ranking than Edinburgh (84th vs 29th); less well-known internationally; like Edinburgh, vacation research requires initiative before Year 4
 
@@ -354,8 +394,9 @@ For a student focused on biomedical/medicine preparation as an undergraduate, **
 | **Student-to-staff ratio / personal attention** | **Edinburgh** (11.3:1) |
 | **Precision medicine / clinical trials** | **Glasgow** (PMS Innovation Centre, 7T MRI, QEUH) |
 | **Biomedical research infrastructure for the cost** | **Glasgow** (~$210K for ARC, CRUK, MRC CVR access) |
-| **Lowest total cost** | **Warwick** (~$168K for 3-year degree) |
-| **Lowest 4-year Scottish degree cost** | **Glasgow** (~$210K, or ~$159K with scholarship) |
+| **Lowest total cost (without scholarship)** | **Warwick** (~$168K for 3-year degree) |
+| **💰 Lowest total cost (with scholarship)** | **Glasgow** (~$159K for 4-year degree — cheapest of all four!) |
+| **Biggest savings opportunity** | **Glasgow** (£10K/yr scholarship = ~$51K saved over 4 years) |
 | **Best cost-to-UG-research ratio** | **Warwick** or **Glasgow** |
 | **University prestige / name recognition** | UC Berkeley |
 | **US medical school applications** | UC Berkeley (US-based, familiar to admissions) |
