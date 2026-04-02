@@ -582,38 +582,78 @@ Once accepted, FlexMed students must complete the following before matriculation
 
 ### 2. University of Toledo — MedStart Program
 
-> **Accepts: Juniors** (3rd-year undergraduate students)
-> **MCAT waived** — conditional acceptance without MCAT.
+> **Accepts: Juniors** (apply at the beginning of 3rd year) from **any accredited US college/university**
+> **MCAT not required for acceptance** — but encouraged to take during senior year for merit scholarship eligibility.
 
 #### Program Overview
 
-The **MedStart Program** at the University of Toledo College of Medicine and Life Sciences provides early conditional acceptance to the MD program for undergraduate juniors. This is a pathway designed to identify motivated pre-medical students early and offer them a guaranteed seat in Toledo's medical school, freeing them from the MCAT and traditional application cycle stress.
+The **MedStart Program** at the University of Toledo College of Medicine and Life Sciences (COMLS) is an early assurance program that accepts exceptional students during their **junior year** from **any accredited US college or university** — not limited to UToledo students. Accepted students complete a **mandatory summer program** on the Health Science Campus between junior and senior year, finish their bachelor's degree, then matriculate into the MD program the following fall.
 
-- Small cohort: typically **5–15 students** per year
-- Must be enrolled as an undergraduate at the **University of Toledo** (or in some cases, other Ohio institutions — verify current eligibility)
-- Students complete their senior year and bachelor's degree, then matriculate into the MD program
-- ⚠️ **Note**: The UToledo website was inaccessible during research (April 2026). Some details below are based on publicly available program information and should be verified directly with the admissions office.
+- **~55–163 applicants** per year → **~12–29 accepted** per year (varies by cycle)
+- Acceptance rate: **~10–25%** depending on the year
+- Open to students at **any accredited US college or university**
+- **MMI (Multiple Mini Interview)** format — conducted via synchronous web-based platform
+- Mandatory summer program on Health Science Campus for accepted students (between junior/senior year)
+- Must matriculate the fall after completing bachelor's — **no deferral allowed**
+- Submitting an AMCAS application to another school = **automatic withdrawal** from MedStart
+
+#### Historical Acceptance Data
+
+| Year | Applied | Accepted | Avg GPA | Avg SAT | Avg ACT |
+|---|:-:|:-:|:-:|:-:|:-:|
+| 2015 | 66 | 29 | 3.6 | — | 30 |
+| 2018 | 55 | 14 | 3.85 | 696 | 31 |
+| 2020 | 70 | 17 | 3.91 | 1383 | 32 |
+| 2022 | 111 | 15 | 3.91 | 1493 | 32 |
+| 2023 | 163 | 12 | 3.87 | 1497 | 35 |
+| 2024 | 143 | 16 | 3.97 | 1520 | 34 |
+
+> Average accepted GPA has risen to **3.97** and average SAT to **1520** in the most recent cycle — increasingly competitive despite being an "early assurance" program.
 
 #### Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
-| **Year** | Junior (3rd year) undergraduate |
-| **Institution** | Must be enrolled at University of Toledo (primary) |
+| **Year** | Beginning of junior year (2 years of undergrad remaining; for 5-year degrees, apply in 4th year) |
+| **Institution** | **Any accredited US college or university** |
 | **Citizenship** | US citizen or permanent resident |
-| **GPA** | Cumulative GPA ≥ **3.4–3.5** (verify current threshold) |
-| **Science GPA** | Strong science GPA expected |
-| **Coursework** | Completion of core pre-med prerequisites in progress or completed |
-| **MCAT** | **Waived** |
-| **Extracurriculars** | Clinical experience, research, community service expected |
+| **GPA** | Recommended cumulative GPA ≥ **3.7** (on 4.0 scale) |
+| **Science GPA** | Recommended ≥ **3.5** |
+| **ACT/SAT** | Required; **ACT ≥ 30** or **SAT ≥ 1350** strongly recommended (must be taken before college) |
+| **Coursework at application** | Recommended minimum: 1 semester general chemistry w/lab, 1 semester organic chemistry w/lab, AND either 1 year biological sciences or 1 year physics |
+| **MCAT** | **Not required for acceptance** — but strongly encouraged during senior year for merit scholarships |
+| **Extracurriculars** | Community service, healthcare-related activities, leadership, research experiences |
+
+#### Required Courses (must be completed by matriculation)
+
+- 1 year Biological Sciences
+- 1 year Organic Chemistry with labs
+- 1 year Physics
+- 1 semester Biochemistry
+
+**Highly recommended**: Anatomy, Biostatistics, English, Genetics, Medical Terminology, Microbiology, Physiology, Psychology, General Chemistry, Humanities & Social Sciences
+
+#### Application Timeline
+
+| Date | Event |
+|---|---|
+| **August 1** | Application opens (create account at applymed.utoledo.edu) |
+| **October 1** | Application deadline |
+| **October 15** | All supplemental materials due (letters, transcripts, scores) |
+| October – January | Interviews (MMI format, web-based) |
+| By **March 1** | Admissions decisions communicated |
+| After acceptance | Sign Letter of Intent; attend mandatory summer program |
+| Following Fall | Matriculate into MD program |
 
 #### After Acceptance Requirements
 
-- Complete bachelor's degree at University of Toledo
-- Maintain minimum GPA (typically ≥ 3.4–3.5)
-- Complete all pre-med prerequisite courses with satisfactory grades
-- Continue clinical/volunteer activities
-- Fulfill any program-specific mentoring or advising requirements
+- Attend **mandatory summer program** on Health Science Campus (between junior/senior year)
+- Complete bachelor's degree at your undergraduate institution
+- Complete all prerequisite courses by matriculation
+- Maintain strong academic standing
+- Sign Letter of Intent — submitting AMCAS to another school = automatic withdrawal
+- Must matriculate the following fall — **no deferral**
+- MCAT encouraged (not required) for merit scholarship eligibility
 
 #### MD Program Cost of Attendance (4-Year Medical School)
 
@@ -632,19 +672,21 @@ The **MedStart Program** at the University of Toledo College of Medicine and Lif
 | **4-Year MD Total (OH Resident)** | **~$240,000–$260,000** | — |
 | **4-Year MD Total (Out-of-State)** | — | **~$308,000–$340,000** |
 
-> **If attending UToledo as an undergraduate first**, you may qualify for Ohio residency by the time you enter the MD program, locking in the much lower in-state tuition.
+> ⚠️ **Out-of-state students**: Unlike Ohio residents, out-of-state MedStart students pay significantly higher tuition. If you attend an Ohio undergraduate institution, you may establish residency before MD matriculation.
 
 #### Resources & Unique Advantages
 
+- **Open to ANY accredited US college/university** — unlike FlexMed, no restriction to specific schools
 - **University of Toledo Medical Center (UTMC)**: on-campus teaching hospital with direct clinical access
 - **ProMedica Health System** affiliation (50-year partnership): access to one of the largest healthcare networks in northwest Ohio
 - **Low cost of living**: Toledo is dramatically cheaper than NYC — rent ~$600–$900/month for an apartment near campus
-- **Integrated undergraduate-to-medical school pathway**: seamless transition from UToledo undergrad to MD program
-- **Small cohort size**: more personal attention and mentoring than large programs
+- **Mandatory summer immersion program**: get to know the campus, faculty, current students, and Toledo community before starting
+- **Small cohort size** (~12–16 per year): more personal attention and mentoring than large programs
 - **Clinical departments**: 21 departments including Biochemistry & Cancer Biology, Medical Microbiology & Immunology, Neurosciences, Pathology, Physiology & Pharmacology
 - **Health Science Campus**: dedicated medical campus in south Toledo
-- **Ohio public university benefits**: potential for Ohio residency tuition rates, state financial aid programs
-- **No MCAT requirement**: eliminates months of MCAT preparation time and cost (~$2,000–$5,000 in prep courses + exam fees)
+- **Merit scholarships available** if you take the MCAT voluntarily — competitive scores can unlock additional funding
+- **No MCAT requirement for acceptance**: eliminates months of MCAT preparation time and cost (~$2,000–$5,000 in prep courses + exam fees)
+- **Lower GPA threshold than FlexMed**: recommended 3.7 cumulative (vs. FlexMed's 3.6 minimum / 3.75 post-acceptance requirement)
 
 ---
 
@@ -652,14 +694,19 @@ The **MedStart Program** at the University of Toledo College of Medicine and Lif
 
 | Feature | Mount Sinai FlexMed | Toledo MedStart |
 |---|---|---|
-| **Accepts** | **Sophomores** (2nd year) | **Juniors** (3rd year) |
-| **MCAT** | Waived (prohibited) | Waived |
-| **Open to students from** | Any accredited US/Canadian college | University of Toledo (primarily) |
-| **Class size** | ~40 per year | ~5–15 per year |
-| **Selectivity** | ~5% acceptance rate (~800 applicants) | Less competitive (smaller pool) |
-| **Min GPA** | ≥ 3.6 cumulative | ≥ 3.4–3.5 cumulative |
-| **SAT/ACT** | Required (prefer SAT ≥ 1400 / ACT ≥ 31) | Not required |
-| **Post-acceptance GPA** | ≥ 3.75 annual + ≥ 3.75 science | ≥ 3.4–3.5 (verify) |
+| **Accepts** | **Sophomores** (2nd year) | **Juniors** (beginning of 3rd year) |
+| **MCAT** | Waived (prohibited) | Not required (encouraged for merit scholarships) |
+| **Open to students from** | Any accredited US/Canadian college | **Any accredited US college** |
+| **Class size** | ~40 per year | ~12–16 per year |
+| **Selectivity** | ~5% acceptance rate (~800 applicants) | ~10–25% acceptance rate (~55–163 applicants) |
+| **Min GPA (recommended)** | ≥ 3.6 cumulative | ≥ 3.7 cumulative, ≥ 3.5 science |
+| **Avg GPA of accepted** | N/A | **3.97** (2024 cycle) |
+| **SAT/ACT** | Required (prefer SAT ≥ 1400 / ACT ≥ 31) | Required (prefer SAT ≥ 1350 / ACT ≥ 30) |
+| **Post-acceptance GPA** | ≥ 3.75 annual + ≥ 3.75 science | Maintain strong standing |
+| **Summer program** | None | **Mandatory** (between junior/senior year) |
+| **Deferral** | 1–2 years allowed | **Not allowed** — must matriculate next fall |
+| **Can apply to other schools?** | Must withdraw from FlexMed | AMCAS application = automatic withdrawal |
+| **Interview format** | Two 30-min semi-structured interviews | **MMI** (Multiple Mini Interview), web-based |
 | **Medical school type** | Private (NYC) | Public (Ohio) |
 | **US News Research Rank** | ~11th | Unranked / lower tier |
 | **Teaching hospital** | Mount Sinai Health System (8 hospitals) | UTMC + ProMedica partnership |
@@ -667,10 +714,10 @@ The **MedStart Program** at the University of Toledo College of Medicine and Lif
 | **4-Year MD Tuition (tuition only)** | ~$236,000 | ~$152,000–$168,000 (OH resident) |
 | **4-Year MD Total Cost** | **~$380,000–$432,000** | **~$240,000–$260,000** (OH resident) |
 | **Cost of living** | Very high (NYC) | Very low (Toledo) |
-| **Financial aid** | ESI: max $75K debt for $0 EFC students | Standard federal/state aid |
-| **Deferral** | 1–2 years allowed | Limited / verify |
-| **Application fee** | $110 | Verify |
-| **Application deadline** | January 15 | Verify (typically fall of junior year) |
+| **Financial aid** | ESI: max $75K debt for $0 EFC students | Standard aid + merit scholarships (with MCAT) |
+| **Application opens** | October 1 | **August 1** |
+| **Application deadline** | January 15 | **October 1** |
+| **Decisions by** | July | **March 1** |
 
 ### 💰 Total Cost Comparison: Undergraduate + Medical School
 
@@ -680,6 +727,7 @@ The **MedStart Program** at the University of Toledo College of Medicine and Lif
 |---|:-:|:-:|:-:|
 | **Glasgow (with scholarship) → US MD** | ~$159,000 | ~$240K–$400K (varies by school) | ~$399,000–$559,000 |
 | **UC Berkeley (OOS) → US MD** | ~$400,000 | ~$240K–$400K | ~$640,000–$800,000 |
+| **Any US college → MedStart (OH resident)** | ~$100K–$400K (varies) | ~$240,000–$260,000 | ~$340,000–$660,000 |
 | **UToledo UG → MedStart (OH resident)** | ~$129,000* | ~$240,000–$260,000 | <mark>**~$369,000–$389,000**</mark> |
 | **Any US college → FlexMed (Mount Sinai)** | ~$100K–$400K (varies) | ~$380,000–$432,000 | ~$480,000–$832,000 |
 | **Edinburgh → US MD** | ~$246,000 | ~$240K–$400K | ~$486,000–$646,000 |
@@ -687,7 +735,7 @@ The **MedStart Program** at the University of Toledo College of Medicine and Lif
 
 > \* UToledo undergraduate 4-year cost estimate: ~$32,300/yr (OH resident total cost from CollegeSimply data)
 >
-> <mark>**Key insight**: The **Toledo MedStart pathway** (UToledo undergrad → MedStart MD) offers the **lowest total 8-year cost** at ~$369,000–$389,000 for Ohio residents — **no MCAT, guaranteed admission, and the cheapest combined UG+MD pathway**. However, it requires attending UToledo as an undergraduate and the medical school is lower-ranked.</mark>
+> <mark>**Key insight**: **Both EAPs accept students from any accredited US college** — MedStart is not limited to UToledo students. The **cheapest combined UG+MD pathway** is UToledo undergrad → MedStart at ~$369,000–$389,000 (Ohio resident), but a student at **any US university** can apply to MedStart during junior year. Out-of-state MedStart students pay ~$308K–$340K for MD.</mark>
 >
 > <mark>**Mount Sinai FlexMed** offers access to a **top-11 research medical school** with no MCAT, but at a significantly higher cost (~$380K–$432K for MD alone). The ESI scholarship can reduce debt to $75K max for students with no family contribution — making it potentially very affordable despite the sticker price.</mark>
 >
@@ -696,7 +744,7 @@ The **MedStart Program** at the University of Toledo College of Medicine and Lif
 ### ⚠️ Important Considerations for EAPs
 
 1. **FlexMed is only open to US/Canadian college students**: Students at Edinburgh, Glasgow, or Warwick are **not eligible** for FlexMed. Only students at US or Canadian accredited 4-year institutions can apply.
-2. **MedStart requires UToledo enrollment**: This is not open to students at other universities (with possible limited exceptions for Ohio institutions — verify).
+2. **MedStart is open to ANY accredited US college/university**: Unlike what many assume, MedStart is **not limited to UToledo students**. Any junior at an accredited US college can apply. However, out-of-state students will pay significantly higher MD tuition (~$55K–$60K/yr vs ~$38K–$42K/yr for Ohio residents).
 3. **UK degree holders applying to US medical schools**: Students graduating from UK universities apply through the standard **AMCAS** route, which requires the **MCAT**. UK pre-med courses are generally accepted, but some medical schools may have preferences for US-based prerequisite courses.
 4. **No MCAT = freedom but also commitment**: Both programs lock you into a specific medical school. If you change your mind, you must withdraw and cannot take the MCAT while enrolled in FlexMed.
 5. **FlexMed's post-acceptance GPA requirement (3.75)** is rigorous — failure to maintain it can result in rescission of the offer.
