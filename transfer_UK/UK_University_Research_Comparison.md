@@ -815,6 +815,98 @@ US medical schools typically require specific prerequisite courses. Here's how U
 
 > ⚠️ **"International applicants"** in AAMC data includes both non-US citizens AND US citizens educated abroad. A US citizen with a UK degree would still face the foreign transcript/GPA issue even though their citizenship is not a barrier. The **~43 schools** that accept international applicants is the maximum pool — compared to ~157 schools open to domestic US-educated applicants.
 
+#### Complete List of US MD Schools That Accept International/Foreign-Educated Applicants
+
+> Below is a compiled list of **US allopathic (MD) medical schools** known to accept applications from international students or US citizens educated abroad, organized by how restrictive their requirements are for someone with a **UK undergraduate degree**. Data sourced from MSAR 2025 and individual school admissions pages.
+>
+> **Key for restriction symbols:**
+> - 🟢 = Explicitly accepts UK coursework/degrees
+> - 🟡 = Accepts international applicants but requires some US coursework
+> - 🔵 = Requires US/Canadian bachelor's degree
+> - 🟠 = Case-by-case basis
+> - 🔴 = Restricted to specific university/state ties or pending US residents only
+
+##### 🟢 Most UK-Friendly (Explicitly Accept UK Degrees or Coursework)
+
+| # | Medical School | UK-Relevant Requirement |
+|---|---|---|
+| 1 | **Stanford University School of Medicine** | At least 1 academic year of study in the **US, UK, or Canada** |
+| 2 | **Yale School of Medicine** | 3 academic years (~90 semester hours) at accredited institution; premed courses must be taken at a **US, Canadian, or UK university** |
+| 3 | **Northwestern University Feinberg School of Medicine** | 3 years at US/Canadian institution required, but **may make exceptions for institutions in the British Isles or Australia** |
+
+##### 🟡 Accept International Applicants — Require Some US Coursework
+
+| # | Medical School | Requirement for UK-Educated Applicants |
+|---|---|---|
+| 4 | **Harvard Medical School** | At least 1 year of study at US/Canadian institution; 3+ years college coursework and bachelor's required |
+| 5 | **Columbia University Vagelos College of P&S** | At least 1 year of premed at a US university |
+| 6 | **Johns Hopkins University School of Medicine** | Bachelor's degree required; 1 year of study at US institution (does not apply if degree from Canada) |
+| 7 | **Duke University School of Medicine** | Minimum 2 years at a US university |
+| 8 | **Icahn School of Medicine at Mount Sinai** | Bachelor's required; if degree earned outside US, post-bacc or grad-level US coursework highly recommended |
+| 9 | **Weill Cornell Medicine** | Accepts international applicants; check specific requirements |
+| 10 | **Perelman School of Medicine (UPenn)** | Minimum 1 year of higher education at US/Canadian university + completion of prerequisites |
+| 11 | **The Warren Alpert Medical School of Brown University** | Minimum 1 year of higher education at US/Canadian university + completion of prerequisites |
+| 12 | **University of Chicago Pritzker School of Medicine** | At least 1 year of science-related coursework at US/Canadian institution; if premed taken outside US/Canada, a year of upper-level US/Canadian science courses needed |
+| 13 | **Vanderbilt University School of Medicine** | Bachelor's degree required; 1 year at US university highly recommended |
+| 14 | **Washington University in St. Louis School of Medicine** | 90 semester hours at accredited university; only US, Canadian, or American College Overseas coursework |
+| 15 | **Emory University School of Medicine** | 32 semester hours of required science coursework at US/Canadian institution |
+| 16 | **Geisel School of Medicine at Dartmouth** | Minimum 3 years at US/Canadian institution |
+| 17 | **Saint Louis University School of Medicine** | At least 30 semester hours at US/Canadian university |
+| 18 | **Renaissance School of Medicine at Stony Brook University** | Minimum 1 year of study at US university |
+| 19 | **State University of New York Upstate Medical University** | At least 90 semester hours at US/Canadian university |
+| 20 | **University of Hawaii John A. Burns School of Medicine** | 90 semester hours at US/Canadian institution |
+| 21 | **Howard University College of Medicine** | At least 71 semester hours from US/Canadian institution |
+| 22 | **University of Illinois College of Medicine** | 32 semester hours at US institution + bachelor's; foreign degrees evaluated by WES |
+| 23 | **Loma Linda University School of Medicine** | At least 1 year at US/Canadian institution including required courses |
+| 24 | **University of Colorado School of Medicine** | Bachelor's degree required |
+| 25 | **University of Connecticut School of Medicine** | Bachelor's degree required |
+| 26 | **Rutgers New Jersey Medical School** | Bachelor's degree required |
+| 27 | **University of North Carolina at Chapel Hill School of Medicine** | If bachelor's obtained outside US, prerequisites must be taken at US institution |
+| 28 | **Medical College of Wisconsin–Milwaukee** | Accepts international applicants |
+| 29 | **Morehouse School of Medicine** | Accepts international applicants |
+| 30 | **Tulane University School of Medicine** | Bachelor's degree required; US bachelor's highly recommended |
+| 31 | **University of California, Davis School of Medicine** | 90 semester hours at accredited institution; prerequisites at US university |
+| 32 | **Case Western Reserve University School of Medicine** | If graduated outside US: 1–2 years of UG/grad science coursework at US university |
+| 33 | **San Juan Bautista School of Medicine** | Accepts international applicants |
+| 34 | **Universidad Central del Caribe School of Medicine** | Case-by-case basis |
+
+##### 🔵 Require US/Canadian Bachelor's Degree (UK Degree Alone Insufficient)
+
+| # | Medical School | Restriction |
+|---|---|---|
+| 35 | **NYU Grossman School of Medicine** | Bachelor's from US/Canadian university required |
+| 36 | **NYU Grossman Long Island School of Medicine** | Bachelor's from US/Canadian university required |
+| 37 | **Boston University School of Medicine** | US/Canadian bachelor's preferred; prerequisites at US/Canadian institution |
+| 38 | **Tufts University School of Medicine** | US bachelor's preferred; prerequisites at US university |
+| 39 | **Sidney Kimmel Medical College (Thomas Jefferson)** | Bachelor's from US/Canadian university required |
+| 40 | **George Washington University School of Medicine** | Bachelor's from US/Canadian institution required |
+| 41 | **New York Medical College** | All/majority of bachelor's at US/Canadian college |
+| 42 | **University of South Alabama** | 90+ semester hours and all prerequisites at accredited US institution |
+| 43 | **University of Virginia School of Medicine** | 90 semester hours at US/Canadian university; bachelor's preferred |
+| 44 | **West Virginia University School of Medicine** | 90 credit hours + 3 years at US/Canadian institution |
+
+##### 🔴 Highly Restricted (State/University Ties or Permanent Residents Only)
+
+| # | Medical School | Restriction |
+|---|---|---|
+| 45 | **Creighton University School of Medicine** | Bachelor's from Creighton University required |
+| 46 | **University of Nebraska College of Medicine** | Bachelor's from University of Nebraska required |
+| 47 | **University of Rochester School of Medicine** | Bachelor's from University of Rochester required |
+| 48 | **Wayne State University School of Medicine** | Only Canadians or Wayne State bachelor's holders |
+| 49 | **University of Kentucky College of Medicine** | Only international students who attended a Kentucky high school or university |
+| 50 | **University of New Mexico School of Medicine** | 2 years at US university + 12 consecutive months NM residency |
+| 51 | **McGovern Medical School (UTHealth Houston)** | Only accepts pending US citizens or permanent residents |
+| 52 | **University of Louisville School of Medicine** | Only accepts pending US citizens or permanent residents |
+| 53 | **University of Maryland School of Medicine** | Only accepts pending US citizens or permanent residents |
+| 54 | **University of Utah School of Medicine** | US/Canadian bachelor's; only international students via MD/PhD |
+| 55 | **University of Southern California Keck School of Medicine** | Case-by-case; bachelor's equivalent evaluated by USC |
+| 56 | **Rutgers Robert Wood Johnson Medical School** | US/Canadian coursework required; case-by-case |
+| 57 | **Virginia Commonwealth University School of Medicine** | Case-by-case; prerequisites required |
+
+> <mark>**For a US citizen with a UK biomedical degree**: The most realistic options are the **🟢 UK-friendly schools** (Stanford, Yale, Northwestern) which explicitly accept UK coursework, plus the **🟡 schools that require some US coursework** — which can be satisfied through a **post-baccalaureate program** (typically 1 year, 30+ credit hours). This gives a realistic pool of **~34 schools** after excluding those requiring full US bachelor's degrees or specific university/state ties.</mark>
+>
+> <mark>**Best bets for UK-educated applicants**: Stanford (explicitly accepts UK study), Yale (explicitly accepts UK premed courses), Mount Sinai (recommends US post-bacc for foreign degree holders), Harvard (1 year US study required), and Northwestern (may waive US requirement for British Isles institutions).</mark>
+
 ### ✅ Advantages of a UK Biomedical Degree for US Medical School Applications
 
 | Advantage | Details |
