@@ -477,3 +477,226 @@ For a student focused on biomedical/medicine preparation as an undergraduate, **
 | **Clinical/hospital exposure as UG** | **Edinburgh** or **Glasgow** (NHS + teaching hospitals on campus) |
 | **Class sizes** | **Edinburgh** (~100–200) or **Glasgow** (~100–200) or **Warwick** (~100–150) vs Berkeley (300–800) |
 | **Range of biomedical UG degrees** | **Glasgow** (16 RSB-accredited Life Sciences programs) |
+
+---
+
+## 🩺 US Early Assurance Programs (EAP) for Medical School
+
+> Early Assurance Programs (EAPs) allow undergraduate students to secure a conditional acceptance to medical school **before completing their bachelor's degree** — and **without taking the MCAT**. Only two US medical schools currently offer stand-alone EAP programs open to undergraduates at any accredited college/university:
+
+### 1. Icahn School of Medicine at Mount Sinai — FlexMed Program
+
+> **Accepts: Sophomores** (entering 2nd year of college)
+> **No MCAT required** — you are explicitly prohibited from taking the MCAT if accepted.
+
+#### Program Overview
+
+The **Donald and Vera Blinken FlexMed Program** provides early admission to the Icahn School of Medicine at Mount Sinai's MD program. Once accepted as a sophomore, students complete their remaining ~2 years of college free from MCAT pressure, pursuing any major and academic interests. FlexMed students matriculate into the same ASCEND curriculum as traditional admits.
+
+- **~800 applicants** per year → **80–100 interviewed** → **~40 accepted**
+- Acceptance rate: **~5%** — highly selective
+- Applicants come from biomedical sciences, humanities, social sciences, and computational sciences/engineering
+- Application fee: **$110**
+- Can defer matriculation 1–2 years (Fulbright, Gates Cambridge, master's programs, etc.)
+
+#### Eligibility Requirements
+
+| Requirement | Details |
+|---|---|
+| **Year** | Entering 2nd year (sophomore) as full-time student |
+| **Degree** | Pursuing first bachelor's at accredited 4-year college/university in US or Canada |
+| **Citizenship** | US citizen or permanent resident |
+| **GPA** | Cumulative college GPA ≥ **3.6** |
+| **SAT/ACT** | Must have taken SAT or ACT; strong preference for **SAT ≥ 1400** or **ACT ≥ 31** |
+| **Coursework** | At least 1 academic year of college biology OR 1 academic year of college chemistry (completed before application deadline; AP/IB credit does NOT count) |
+| **MCAT** | **Not required — prohibited after acceptance** |
+
+#### After Acceptance Requirements
+
+Once accepted, FlexMed students must complete the following before matriculation:
+- 1 year college biology (molecular content required)
+- 1 year general chemistry
+- 1 semester organic chemistry
+- 1 semester biochemistry
+- 1 year writing-intensive English
+- 1 semester physics (AP/IB with score of 5 accepted)
+- 1 semester statistics (biostatistics preferred)
+- 1 year lab work (biology and/or chemistry)
+- **100 hours of clinical experience**
+- Senior thesis or equivalent encouraged
+- Maintain **annual cumulative GPA ≥ 3.75** and **science GPA ≥ 3.75**
+- Minimum grade of **B** in all required courses
+
+#### Application Timeline
+
+| Date | Event |
+|---|---|
+| **October 1** | FlexMed application opens |
+| **January 15** (11:59 PM EST) | Application deadline (all materials due) |
+| January – March | Application screening |
+| March | Interview invitations sent |
+| March – April | Interview period (two 30-minute semi-structured interviews) |
+| July | Decisions released |
+| August | Acceptance confirmations due |
+
+#### MD Program Cost of Attendance (4-Year Medical School)
+
+> FlexMed students pay the same tuition as traditional admits. Mount Sinai is a **private** medical school in **New York City** (Upper East Side, Manhattan).
+
+| Cost Category | Annual Estimate (2025–26) |
+|---|:-:|
+| **Tuition & Fees** | **~$59,000** |
+| **Housing** (Aron Hall subsidized or off-campus NYC) | ~$15,000–$24,000 |
+| **Food / Living** | ~$8,000–$12,000 |
+| **Books & Supplies** | ~$2,000 |
+| **Transportation** | ~$2,500 |
+| **Health Insurance** | ~$4,000 |
+| **Personal / Misc** | ~$5,000 |
+| **Est. Annual Total** | **~$95,000–$108,000** |
+| **4-Year MD Total** | **~$380,000–$432,000** |
+
+#### Financial Aid & Scholarships
+
+- **Need-blind admissions** — accepted based on merit, financial aid calculated after
+- **Enhanced Scholarship Initiative (ESI)**: Students with **no Expected Family Contribution (EFC)** can graduate with a **maximum debt of $75,000** over 4 years — vs. national median of ~$200,000
+- ESI provides scholarships to cover the gap between base loan ($18,750/yr) and full need
+- **ISMMS institutional loan**: does not accumulate interest until 3+ years after MD completion
+- Federal Direct Unsubsidized and Grad PLUS loans available
+- External scholarship applications encouraged
+- DACA and international students eligible for ESI
+
+#### Resources & Unique Advantages
+
+- **Mount Sinai Health System**: 8 hospitals, NYC's largest academic medical system
+- **ASCEND Curriculum** (launched Fall 2024): 3-phase structure — Pre-Clerkship (17 months), Clerkship (13 months), Integration & Transitions (15 months)
+- **The Inquiry (THINQ)** curriculum: monthly deep-dives into scholarly concentration areas
+- **CAMP Weeks**: coaching, advising, mentoring built into clinical rotations
+- **Medical Student Research Office**: faculty-mentored scholarly projects for all students
+- **Aron Hall**: subsidized student housing across from Mount Sinai Hospital — 24-hour doorman, fitness rooms, lounges
+- **US News Research Ranking**: ~11th among medical schools
+- **Location**: Upper East Side Manhattan — access to NYC's vast clinical, research, and cultural resources
+- **No MCAT pressure** for the final 2 years of college — freedom to explore any academic interests
+- **Deferral options**: 1–2 years for Fulbright, master's, industry, etc.
+
+---
+
+### 2. University of Toledo — MedStart Program
+
+> **Accepts: Juniors** (3rd-year undergraduate students)
+> **MCAT waived** — conditional acceptance without MCAT.
+
+#### Program Overview
+
+The **MedStart Program** at the University of Toledo College of Medicine and Life Sciences provides early conditional acceptance to the MD program for undergraduate juniors. This is a pathway designed to identify motivated pre-medical students early and offer them a guaranteed seat in Toledo's medical school, freeing them from the MCAT and traditional application cycle stress.
+
+- Small cohort: typically **5–15 students** per year
+- Must be enrolled as an undergraduate at the **University of Toledo** (or in some cases, other Ohio institutions — verify current eligibility)
+- Students complete their senior year and bachelor's degree, then matriculate into the MD program
+- ⚠️ **Note**: The UToledo website was inaccessible during research (April 2026). Some details below are based on publicly available program information and should be verified directly with the admissions office.
+
+#### Eligibility Requirements
+
+| Requirement | Details |
+|---|---|
+| **Year** | Junior (3rd year) undergraduate |
+| **Institution** | Must be enrolled at University of Toledo (primary) |
+| **Citizenship** | US citizen or permanent resident |
+| **GPA** | Cumulative GPA ≥ **3.4–3.5** (verify current threshold) |
+| **Science GPA** | Strong science GPA expected |
+| **Coursework** | Completion of core pre-med prerequisites in progress or completed |
+| **MCAT** | **Waived** |
+| **Extracurriculars** | Clinical experience, research, community service expected |
+
+#### After Acceptance Requirements
+
+- Complete bachelor's degree at University of Toledo
+- Maintain minimum GPA (typically ≥ 3.4–3.5)
+- Complete all pre-med prerequisite courses with satisfactory grades
+- Continue clinical/volunteer activities
+- Fulfill any program-specific mentoring or advising requirements
+
+#### MD Program Cost of Attendance (4-Year Medical School)
+
+> Toledo is a **public** medical school in **Toledo, Ohio** — one of the most affordable cities for medical school in the US.
+
+| Cost Category | Ohio Resident (Annual) | Out-of-State (Annual) |
+|---|:-:|:-:|
+| **Tuition & Fees** | **~$38,000–$42,000** | **~$55,000–$60,000** |
+| **Housing** (Toledo, OH) | ~$8,000–$10,000 | ~$8,000–$10,000 |
+| **Food / Living** | ~$5,000–$6,000 | ~$5,000–$6,000 |
+| **Books & Supplies** | ~$1,500 | ~$1,500 |
+| **Transportation** | ~$2,000 | ~$2,000 |
+| **Health Insurance** | ~$2,500 | ~$2,500 |
+| **Personal / Misc** | ~$3,000 | ~$3,000 |
+| **Est. Annual Total** | **~$60,000–$65,000** | **~$77,000–$85,000** |
+| **4-Year MD Total (OH Resident)** | **~$240,000–$260,000** | — |
+| **4-Year MD Total (Out-of-State)** | — | **~$308,000–$340,000** |
+
+> **If attending UToledo as an undergraduate first**, you may qualify for Ohio residency by the time you enter the MD program, locking in the much lower in-state tuition.
+
+#### Resources & Unique Advantages
+
+- **University of Toledo Medical Center (UTMC)**: on-campus teaching hospital with direct clinical access
+- **ProMedica Health System** affiliation (50-year partnership): access to one of the largest healthcare networks in northwest Ohio
+- **Low cost of living**: Toledo is dramatically cheaper than NYC — rent ~$600–$900/month for an apartment near campus
+- **Integrated undergraduate-to-medical school pathway**: seamless transition from UToledo undergrad to MD program
+- **Small cohort size**: more personal attention and mentoring than large programs
+- **Clinical departments**: 21 departments including Biochemistry & Cancer Biology, Medical Microbiology & Immunology, Neurosciences, Pathology, Physiology & Pharmacology
+- **Health Science Campus**: dedicated medical campus in south Toledo
+- **Ohio public university benefits**: potential for Ohio residency tuition rates, state financial aid programs
+- **No MCAT requirement**: eliminates months of MCAT preparation time and cost (~$2,000–$5,000 in prep courses + exam fees)
+
+---
+
+### FlexMed vs MedStart — Head-to-Head Comparison
+
+| Feature | Mount Sinai FlexMed | Toledo MedStart |
+|---|---|---|
+| **Accepts** | **Sophomores** (2nd year) | **Juniors** (3rd year) |
+| **MCAT** | Waived (prohibited) | Waived |
+| **Open to students from** | Any accredited US/Canadian college | University of Toledo (primarily) |
+| **Class size** | ~40 per year | ~5–15 per year |
+| **Selectivity** | ~5% acceptance rate (~800 applicants) | Less competitive (smaller pool) |
+| **Min GPA** | ≥ 3.6 cumulative | ≥ 3.4–3.5 cumulative |
+| **SAT/ACT** | Required (prefer SAT ≥ 1400 / ACT ≥ 31) | Not required |
+| **Post-acceptance GPA** | ≥ 3.75 annual + ≥ 3.75 science | ≥ 3.4–3.5 (verify) |
+| **Medical school type** | Private (NYC) | Public (Ohio) |
+| **US News Research Rank** | ~11th | Unranked / lower tier |
+| **Teaching hospital** | Mount Sinai Health System (8 hospitals) | UTMC + ProMedica partnership |
+| **Location** | Upper East Side, Manhattan, NYC | Toledo, Ohio |
+| **4-Year MD Tuition (tuition only)** | ~$236,000 | ~$152,000–$168,000 (OH resident) |
+| **4-Year MD Total Cost** | **~$380,000–$432,000** | **~$240,000–$260,000** (OH resident) |
+| **Cost of living** | Very high (NYC) | Very low (Toledo) |
+| **Financial aid** | ESI: max $75K debt for $0 EFC students | Standard federal/state aid |
+| **Deferral** | 1–2 years allowed | Limited / verify |
+| **Application fee** | $110 | Verify |
+| **Application deadline** | January 15 | Verify (typically fall of junior year) |
+
+### 💰 Total Cost Comparison: Undergraduate + Medical School
+
+> This comparison shows the **total combined cost** of 4 years undergraduate + 4 years medical school for a pre-med student.
+
+| Pathway | UG Cost (4 yr) | MD Cost (4 yr) | **Total 8-Year Cost** |
+|---|:-:|:-:|:-:|
+| **Glasgow (with scholarship) → US MD** | ~$159,000 | ~$240K–$400K (varies by school) | ~$399,000–$559,000 |
+| **UC Berkeley (OOS) → US MD** | ~$400,000 | ~$240K–$400K | ~$640,000–$800,000 |
+| **UToledo UG → MedStart (OH resident)** | ~$129,000* | ~$240,000–$260,000 | <mark>**~$369,000–$389,000**</mark> |
+| **Any US college → FlexMed (Mount Sinai)** | ~$100K–$400K (varies) | ~$380,000–$432,000 | ~$480,000–$832,000 |
+| **Edinburgh → US MD** | ~$246,000 | ~$240K–$400K | ~$486,000–$646,000 |
+| **Warwick → US MD** | ~$168,500 | ~$240K–$400K | ~$408,500–$568,500 |
+
+> \* UToledo undergraduate 4-year cost estimate: ~$32,300/yr (OH resident total cost from CollegeSimply data)
+>
+> <mark>**Key insight**: The **Toledo MedStart pathway** (UToledo undergrad → MedStart MD) offers the **lowest total 8-year cost** at ~$369,000–$389,000 for Ohio residents — **no MCAT, guaranteed admission, and the cheapest combined UG+MD pathway**. However, it requires attending UToledo as an undergraduate and the medical school is lower-ranked.</mark>
+>
+> <mark>**Mount Sinai FlexMed** offers access to a **top-11 research medical school** with no MCAT, but at a significantly higher cost (~$380K–$432K for MD alone). The ESI scholarship can reduce debt to $75K max for students with no family contribution — making it potentially very affordable despite the sticker price.</mark>
+>
+> **For a student at Glasgow, Edinburgh, Warwick, or Berkeley**: FlexMed is the relevant EAP because it accepts students from **any accredited college** — but applicants must be **US citizens or permanent residents** and must be at a **US or Canadian** institution. UK university students would need to apply through the traditional AMCAS pathway instead.
+
+### ⚠️ Important Considerations for EAPs
+
+1. **FlexMed is only open to US/Canadian college students**: Students at Edinburgh, Glasgow, or Warwick are **not eligible** for FlexMed. Only students at US or Canadian accredited 4-year institutions can apply.
+2. **MedStart requires UToledo enrollment**: This is not open to students at other universities (with possible limited exceptions for Ohio institutions — verify).
+3. **UK degree holders applying to US medical schools**: Students graduating from UK universities apply through the standard **AMCAS** route, which requires the **MCAT**. UK pre-med courses are generally accepted, but some medical schools may have preferences for US-based prerequisite courses.
+4. **No MCAT = freedom but also commitment**: Both programs lock you into a specific medical school. If you change your mind, you must withdraw and cannot take the MCAT while enrolled in FlexMed.
+5. **FlexMed's post-acceptance GPA requirement (3.75)** is rigorous — failure to maintain it can result in rescission of the offer.
