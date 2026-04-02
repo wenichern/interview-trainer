@@ -803,17 +803,22 @@ US medical schools typically require specific prerequisite courses. Here's how U
 
 #### 4. How Many US Medical Schools Accept International/Foreign-Educated Applicants?
 
-| Statistic | Value |
-|---|---|
-| Total US MD-granting medical schools | ~157 |
-| **Schools accepting international applicants** (2025 MSAR data) | **~43** |
-| International applicants (2025 AMCAS cycle) | 3,404 |
-| International applicants accepted | 845 |
-| International applicants matriculated | 755 |
-| **Acceptance rate for international applicants** | **~24.8%** (of those who applied to accepting schools) |
-| <mark>**Overall acceptance rate (all applicants)**</mark> | <mark>**~41%**</mark> |
+| Statistic | Value | Source |
+|---|---|---|
+| Total US MD-granting medical schools | ~157 | AAMC |
+| **Schools accepting international applicants** (2025 MSAR data) | **~43** | MSAR |
+| Non-US-citizen applicants (2025 AMCAS cycle) | 3,404 | AAMC (official international applicant page) |
+| Non-US-citizen applicants accepted | 845 | AAMC (official international applicant page) |
+| **Acceptance rate for non-US-citizen applicants** | **~24.8%** | 845 ÷ 3,404 (calculated from AAMC data) |
+| Total AMCAS applicants (2023–2024) | 52,577 | AAMC via Wikipedia (ref 28) |
+| Total matriculants (2023–2024) | 22,981 | AAMC via Wikipedia (ref 28) |
+| <mark>**Overall matriculation rate (all applicants, 2023–2024)**</mark> | <mark>**~43.7%**</mark> | AAMC (52,577 applied → 22,981 matriculated) |
+| Overall acceptance rate (all applicants, 2021) | ~36% | AAMC |
 
-> ⚠️ **"International applicants"** in AAMC data includes both non-US citizens AND US citizens educated abroad. A US citizen with a UK degree would still face the foreign transcript/GPA issue even though their citizenship is not a barrier. The **~43 schools** that accept international applicants is the maximum pool — compared to ~157 schools open to domestic US-educated applicants.
+> ⚠️ **Important clarifications**:
+> 1. **AAMC defines "international/foreign applicant" by citizenship, not where you studied.** The 3,404 are **non-US-citizens** (no US passport or green card). A **US citizen who earned their degree in the UK** is classified as a **domestic applicant** and is counted in the overall 52,577 pool — not the 3,404 foreign pool.
+> 2. **43.7% vs 36%**: The 43.7% is the **matriculation rate** (applicants who actually enrolled, 2023–2024). The 36% is the **acceptance rate** (applicants accepted to at least one school, 2021). The difference is because some accepted students don't matriculate. The rate also varies by year.
+> 3. A US citizen with a UK degree benefits from domestic status for citizenship purposes, but still faces the **foreign transcript/GPA verification issues** and the limited pool of ~43 schools willing to evaluate foreign coursework.
 
 #### Complete List of US MD Schools That Accept International/Foreign-Educated Applicants
 
