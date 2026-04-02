@@ -811,7 +811,7 @@ US medical schools typically require specific prerequisite courses. Here's how U
 | International applicants accepted | 845 |
 | International applicants matriculated | 755 |
 | **Acceptance rate for international applicants** | **~24.8%** (of those who applied to accepting schools) |
-| Overall acceptance rate (all applicants) | ~41% |
+| <mark>**Overall acceptance rate (all applicants)**</mark> | <mark>**~41%**</mark> |
 
 > ⚠️ **"International applicants"** in AAMC data includes both non-US citizens AND US citizens educated abroad. A US citizen with a UK degree would still face the foreign transcript/GPA issue even though their citizenship is not a barrier. The **~43 schools** that accept international applicants is the maximum pool — compared to ~157 schools open to domestic US-educated applicants.
 
