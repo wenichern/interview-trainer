@@ -268,6 +268,10 @@ Berkeley is the **#1 public research university in the world** with massive biom
 
 UC Berkeley L&S students can take courses at a **California Community College (CCC)** to satisfy requirements and potentially reduce total costs. Here's how it works:
 
+**Useful Links:**
+- [CVC.edu](https://www.cvc.edu) — California Virtual Campus: search and enroll in online courses across all 116 California Community Colleges
+- [Berkeley L&S Transfer Credit](https://lsadvising.berkeley.edu/transfercredit) — official L&S advising page on transfer credit policies and limits
+
 #### UC Berkeley L&S Degree Requirements (120 semester units total)
 | Requirement | Units | Where It Must Be Completed |
 |---|---|---|
@@ -328,13 +332,16 @@ The **most significant cost savings** — start at a California Community Colleg
 
 #### How Many CC Credits Can Transfer?
 
+**No more than 70 units** of lower division transfer coursework (not including UC coursework) may be applied toward the 120 unit minimum required for graduation. This includes work from other higher education institutions. This limit **does not apply to exam units** (AP/IB).
+
+Even if you cannot earn additional units from lower division transfer classes, it is still possible to **fulfill major or general education requirements** with lower division transfer classes. For example, if you already have 70 lower division transfer units, you may still be able to take a CA Community College course to satisfy your International Studies Breadth, even if you would not receive additional units.
+
 | Credit Type | Maximum Transferable | Notes |
 |---|---|---|
-| **Total CC units accepted** | **No hard cap** on lower-division transfer units | But only 120 total needed for degree |
-| **Practical limit for transfers** | **~60–70 units** | Beyond this, you're taking courses Berkeley won't apply |
+| **Lower division transfer units** | **70 units max** toward 120-unit graduation requirement | Does not include UC coursework |
 | **For concurrent students** | **Limited by what's useful** (~15–30 units typical) | Only lower-division breadth/prereqs; must maintain 13 units/semester at Berkeley |
-| **AP/IB exam credit** | Varies by exam and score | Does not count toward unit ceiling |
-| **Subject credit limit** | Some subjects cap at 2–4 transferable courses | e.g., can't transfer unlimited English or math |
+| **AP/IB exam credit** | Varies by exam and score | Does **not** count toward the 70-unit ceiling |
+| **Beyond 70 units** | Can still fulfill requirements | Major/breadth requirements can be satisfied even without earning additional unit credit |
 
 > <mark>**Bottom line for CC savings**: The 2+2 transfer pathway can save **$135,000–$175,000** vs 4 years as a freshman — but comes with admission risk and pre-med trade-offs. For a student already admitted to Berkeley, concurrent CC enrollment over summers can help graduate 1 semester early, saving **~$50,000**. For comparison, Glasgow with the World Changers scholarship costs **~$159,000 total** for a full 4-year degree — similar to Berkeley's 2+2 transfer cost, but with guaranteed admission and no pre-med course credibility concerns.</mark>
 
